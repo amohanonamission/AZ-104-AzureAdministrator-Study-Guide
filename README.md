@@ -80,3 +80,47 @@ StudyGuide.md	Detailed study approach
 Resources.md	Videos, Microsoft Learn, practice exams
 PracticeQuestions.md	AI-generated practice questions
 ExamTips.md	Tips for the exam and preparation
+
+Repository Contents
+File	Description
+StudyGuide.md	Detailed study approach
+Resources.md	Videos, Microsoft Learn, practice exams
+PracticeQuestions.md	AI-generated practice questions
+ExamTips.md	Tips for the exam and preparation
+Skills Covered
+Azure Compute
+Virtual Machines
+VM Scale Sets
+Storage Accounts
+Blob Storage
+Azure Files
+Virtual Networking
+NSGs
+Load Balancing
+Application Gateway
+Azure Backup
+Azure Monitor
+Log Analytics
+Microsoft Entra ID
+RBAC
+Managed Identities
+Azure Policy
+Resource Locks
+ARM Templates
+Availability
+Disaster Recovery
+Important Note
+
+This repository reflects my own preparation strategy.
+
+I do not recommend trying to complete AZ-104 in only a few days.
+
+The exam expects you to understand Azure administration concepts—not simply memorize service names.
+
+Spend time using the Azure Portal, reading Microsoft Learn, and practicing deployments.
+
+Final Thought
+
+Cloud isn't about memorizing services. It's about understanding architecture, choosing the right tool for the right problem, and continuously learning as the platform evolves.
+
+Good luck with your Azure journey.
