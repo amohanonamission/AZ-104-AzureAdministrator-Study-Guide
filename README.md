@@ -3,7 +3,6 @@
 A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study strategy, resources, hands-on practice, and lessons learned from passing the exam through self-study.
 
 ### About This Repository
-
 #### Exam Stats:
 
 > I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
