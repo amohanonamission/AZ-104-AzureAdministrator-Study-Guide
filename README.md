@@ -23,7 +23,7 @@ Primary Resources:
 • AI-assisted concept review
 ```
 
-My preparation included:
+### My preparation included:
 
 Watching the complete John Savill AZ-104 playlist and Study Cram
 Completing approximately 12 full-length Udemy practice exams
