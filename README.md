@@ -5,6 +5,25 @@ A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104)
 About This Repository
 
 I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
+```
+Exam: AZ-104 – Microsoft Azure Administrator Associate
+
+Result: Passed
+
+Preparation Time: ~1.5 months
+
+Practice Questions Completed: ~700+
+
+Practice Exams: 12
+
+Hands-on Labs: Azure Free Trial (3 subscriptions)
+
+Primary Resources:
+• John Savill
+• Microsoft Learn
+• Azure Portal
+• AI-assisted concept review
+```
 
 My preparation included:
 
