@@ -1,5 +1,56 @@
 Resources.md
 
+
+Official Resources
+Microsoft Learn Learning Path
+Microsoft Learn Documentation
+Azure Portal
+Azure Free Trial
+Video Course
+
+John Savill
+
+Complete AZ-104 Playlist
+AZ-104 Study Cram
+Practice Exams
+
+Udemy Practice Exam Series #1
+
+Udemy Practice Exam Series #2
+
+Approximately twelve complete exams.
+
+Hands-On Practice
+
+Build resources repeatedly:
+
+VMs
+Storage
+VNets
+NSGs
+RBAC
+Azure Backup
+Azure Monitor
+
+Delete them.
+
+Rebuild them.
+
+Repeat.
+
+AI
+
+Use AI to:
+
+Generate practice questions
+Explain concepts
+Compare Azure services
+Build troubleshooting scenarios
+Review Microsoft Learn
+
+
+---
+
 This can look like:
 
 Learning Resources
