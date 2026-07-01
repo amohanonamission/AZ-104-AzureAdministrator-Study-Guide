@@ -1,6 +1,6 @@
 ## Azure Administrator (AZ-104) Study Guide
 
-A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study approach, resources, and techniques that helped me pass the exam through self-study.
+> A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study approach, resources, and techniques that helped me pass the exam through self-study.
 
 About This Repository
 
