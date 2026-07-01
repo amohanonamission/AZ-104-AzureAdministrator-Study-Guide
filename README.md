@@ -1,3 +1,160 @@
+Azure Administrator (AZ-104) Study Guide
+
+A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study strategy, resources, hands-on practice, and lessons learned from passing the exam through self-study.
+
+About This Repository
+
+I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
+
+My preparation included:
+
+Watching the complete John Savill AZ-104 playlist and Study Cram
+Completing approximately 12 full-length Udemy practice exams
+Solving 700+ practice questions
+Using Microsoft Learn documentation for deeper understanding
+Building and testing services using three Azure Free Trial subscriptions
+Using AI to explain concepts, compare Azure services, generate additional practice questions, and review incorrect answers
+Building GitHub projects alongside studying to reinforce concepts
+
+Rather than memorizing answers, I focused on understanding:
+
+Why Azure services exist
+When each service should be used
+How Azure services interact with one another
+Microsoft's recommended administrative practices
+How to Study for AZ-104
+Phase 1 – Learn the Fundamentals
+
+Start with the core Azure services:
+
+Compute
+Storage
+Networking
+Identity
+Governance
+Monitoring
+
+The goal is to understand each service—not memorize every configuration option.
+
+Phase 2 – Hands-On Practice
+
+Create an Azure Free Trial subscription and build resources yourself.
+
+Practice deploying and managing:
+
+Virtual Machines
+Resource Groups
+Storage Accounts
+Virtual Networks
+NSGs
+Load Balancers
+Azure Monitor
+Azure Backup
+Microsoft Entra ID
+RBAC
+Azure Policy
+
+Nothing replaces hands-on experience.
+
+Phase 3 – Practice Exams
+
+This was the biggest contributor to my success.
+
+Complete full-length practice exams and review every incorrect answer.
+
+For every mistake:
+
+Read Microsoft's explanation
+Review Microsoft Learn documentation
+Research the service further
+Understand why the other answers are incorrect
+
+Pattern recognition becomes extremely valuable on AZ-104.
+
+Phase 4 – Final Revision
+
+Finish your preparation with:
+
+John Savill Study Cram
+Reviewing incorrect questions
+Revisiting Microsoft Learn
+Spending time in the Azure Portal
+Reviewing architecture diagrams
+Repository Contents
+File	Purpose
+StudyGuide.md	Detailed study strategy and preparation plan
+Resources.md	Videos, Microsoft Learn, labs, documentation, and practice exams
+PracticeQuestions.md	AI-generated AZ-104 style questions
+ExamTips.md	Final-week preparation and exam strategy
+Topics Covered
+Identity
+Microsoft Entra ID
+RBAC
+Managed Identities
+Conditional Access
+Hybrid Identity
+Compute
+Azure VMs
+VM Scale Sets
+Availability Sets
+Availability Zones
+Managed Disks
+Azure Backup
+Azure Site Recovery
+Storage
+Blob Storage
+Azure Files
+Storage Accounts
+Lifecycle Management
+Replication
+SAS
+Encryption
+Networking
+Virtual Networks
+NSGs
+ASGs
+UDRs
+Private Endpoints
+Service Endpoints
+VPN Gateway
+ExpressRoute
+Azure Firewall
+Load Balancer
+Application Gateway
+Front Door
+Monitoring
+Azure Monitor
+Log Analytics
+Alerts
+Action Groups
+Advisor
+Service Health
+Governance
+Azure Policy
+Resource Locks
+Tags
+Resource Groups
+Management Groups
+ARM Templates
+Important Note
+
+This repository reflects my personal study strategy.
+
+I do not recommend attempting AZ-104 in only a few days.
+
+The exam expects practical understanding of Azure administration, not memorization of service names.
+
+If you are new to Azure, spend several weeks working through Microsoft Learn modules and building resources in the Azure Portal before scheduling the exam.
+
+Final Thought
+
+Cloud administration isn't about knowing every Azure service—it's about understanding architecture, making informed decisions, automating repetitive tasks, and continuously learning as the platform evolves.
+
+Good luck on your Azure journey!
+
+---
+
+
 ## Azure Administrator (AZ-104) Study Guide
 
 > A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study approach, resources, and techniques that helped me pass the exam through self-study.
