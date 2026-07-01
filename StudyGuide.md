@@ -26,7 +26,20 @@ Sections:
 
 12. After Passing
 
+How I Used AI
 
+Instead of asking AI for answers, I used it to deepen my understanding.
+
+Examples:
+
+Explain Azure networking like I'm an administrator.
+Compare Service Endpoints vs Private Endpoints.
+Generate AZ-104 scenario questions.
+Explain why each answer is wrong.
+Create mini case studies.
+Explain Microsoft Learn pages in simpler language.
+
+This approach helped reinforce concepts rather than memorize them.
 
 ---
 
