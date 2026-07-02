@@ -4,7 +4,7 @@ A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104)
 
 ### About This Repository
 
-> I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
+I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
 
 #### Exam Stats:
 
