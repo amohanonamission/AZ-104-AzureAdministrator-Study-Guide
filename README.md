@@ -26,13 +26,13 @@ Primary Resources:
 
 ### My preparation included:
 
-Watching the complete John Savill AZ-104 playlist and Study Cram
-Completing approximately 12 full-length Udemy practice exams
-Solving 700+ practice questions
-Using Microsoft Learn documentation for deeper understanding
-Building and testing services using three Azure Free Trial subscriptions
-Using AI to explain concepts, compare Azure services, generate additional practice questions, and review incorrect answers
-Building GitHub projects alongside studying to reinforce concepts
+1. Watching the complete John Savill AZ-104 playlist and Study Cram
+2. Completing approximately 12 full-length Udemy practice exams
+3. Solving 700+ practice questions
+4. Using Microsoft Learn documentation for deeper understanding
+5. Building and testing services using three Azure Free Trial subscriptions
+6. Using AI to explain concepts, compare Azure services, generate additional practice questions, and review incorrect answers
+7. Building GitHub projects alongside studying to reinforce concepts
 
 **Rather than memorizing answers, I focused on understanding:**
 
