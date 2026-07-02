@@ -36,12 +36,12 @@ Primary Resources:
 
 **Rather than memorizing answers, I focused on understanding:**
 
-Why Azure services exist
-When each service should be used
-How Azure services interact with one another
-Microsoft's recommended administrative practices
-How to Study for AZ-104
-Phase 1 – Learn the Fundamentals
+1. Why Azure services exist
+2. When each service should be used
+3. How Azure services interact with one another
+4. Microsoft's recommended administrative practices
+5. How to Study for AZ-104
+6. Phase 1 – Learn the Fundamentals
 
 **Start with the core Azure services:**
 
