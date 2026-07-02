@@ -45,16 +45,16 @@ Primary Resources:
 
 **Start with the core Azure services:**
 
-Compute
-Storage
-Networking
-Identity
-Governance
-Monitoring
+* Compute
+* Storage
+* Networking
+* Identity
+* Governance
+* Monitoring
 
 The goal is to understand each service—not memorize every configuration option.
 
-Phase 2 – Hands-On Practice
+### Phase 2 – Hands-On Practice
 
 Create an Azure Free Trial subscription and build resources yourself.
 
@@ -228,7 +228,7 @@ Azure Backup
 
 Nothing replaces clicking through the Azure Portal.
 
-Phase 3 — Practice Exams
+### Phase 3 — Practice Exams
 
 I completed roughly twelve practice exams.
 
