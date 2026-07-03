@@ -74,7 +74,7 @@ Azure Policy
 
 Nothing replaces hands-on experience.
 
-Phase 3 – Practice Exams
+### Phase 3 – Practice Exams
 
 This was the biggest contributor to my success.
 
@@ -89,7 +89,7 @@ Understand why the other answers are incorrect
 
 Pattern recognition becomes extremely valuable on AZ-104.
 
-Phase 4 – Final Revision
+### Phase 4 – Final Revision
 
 Finish your preparation with:
 
