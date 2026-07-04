@@ -34,7 +34,7 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ---
 
-# Resources I Used
+## Resources I Used
 
 ### Video Course
 
@@ -70,9 +70,9 @@ I regularly used AI to:
 
 ---
 
-# My Study Strategy
+## My Study Strategy
 
-## Phase 1 — Learn the Core Services
+### Phase 1 — Learn the Core Services
 
 Start by understanding the six major Azure pillars.
 
@@ -89,7 +89,7 @@ Focus on understanding **what each service does** and **why it exists.**
 
 ---
 
-## Phase 2 — Build Everything Yourself
+### Phase 2 — Build Everything Yourself
 
 Hands-on experience made the biggest difference.
 
@@ -117,7 +117,7 @@ Use it.
 
 ---
 
-## Phase 3 — Practice Exams
+### Phase 3 — Practice Exams
 
 This was the single biggest contributor to passing.
 
@@ -134,7 +134,7 @@ The goal is **pattern recognition**, not memorization.
 
 ---
 
-## Phase 4 — Final Revision
+### Phase 4 — Final Revision
 
 During the final few days, I focused on:
 
@@ -147,7 +147,7 @@ During the final few days, I focused on:
 
 ---
 
-# Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -158,9 +158,9 @@ During the final few days, I focused on:
 
 ---
 
-# Topics Covered
+## Topics Covered
 
-## Identity
+### Identity
 
 - Microsoft Entra ID
 - RBAC
@@ -172,7 +172,7 @@ During the final few days, I focused on:
 
 ---
 
-## Compute
+### Compute
 
 - Virtual Machines
 - VM Scale Sets
@@ -185,7 +185,7 @@ During the final few days, I focused on:
 
 ---
 
-## Storage
+### Storage
 
 - Storage Accounts
 - Blob Storage
@@ -199,7 +199,7 @@ During the final few days, I focused on:
 
 ---
 
-## Networking
+### Networking
 
 - Virtual Networks
 - Subnets
@@ -221,7 +221,7 @@ During the final few days, I focused on:
 
 ---
 
-## Governance
+### Governance
 
 - Azure Policy
 - Resource Locks
@@ -233,7 +233,7 @@ During the final few days, I focused on:
 
 ---
 
-## Monitoring
+### Monitoring
 
 - Azure Monitor
 - Log Analytics
@@ -244,7 +244,7 @@ During the final few days, I focused on:
 
 ---
 
-# Tips for Future Candidates
+## Tips for Future Candidates
 
 ✅ Spend time inside the Azure Portal.
 
@@ -260,7 +260,7 @@ During the final few days, I focused on:
 
 ---
 
-# Important Note
+## Important Note
 
 This repository reflects **my personal preparation strategy**.
 
@@ -275,7 +275,7 @@ If you're completely new to Azure, consider extending your preparation timeline 
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 This repository will continue to grow with:
 
@@ -290,7 +290,7 @@ This repository will continue to grow with:
 
 ---
 
-# License
+## License
 
 Free to use for learning and personal study.
 
@@ -298,7 +298,7 @@ Feel free to fork the repository, contribute improvements, or use it as a refere
 
 ---
 
-# Final Thought
+## Final Thought
 
 > **REMEMBER:** CLOUD ISN'T ABOUT MEMORIZING SERVICES. IT'S ABOUT UNDERSTANDING ARCHITECTURE, SOLVING PROBLEMS, AUTOMATING REPETITIVE TASKS, AND CONTINUALLY LEARNING AS THE PLATFORM EVOLVES.
 >
