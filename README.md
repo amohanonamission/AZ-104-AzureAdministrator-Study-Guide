@@ -22,14 +22,13 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ## My Exam Results
 
-| Item | Details |
-|------|---------|
 | Certification | Microsoft Certified: Azure Administrator Associate |
+|------|---------|
 | Exam | AZ-104 |
 | Result | ✅ Passed |
-| Score | **775 / 1000 (77.5%)** |
+| Score | 775 / 1000 (77.5%) |
 | Preparation Time | ~1.5 Months |
-| Practice Questions | 700+ |
+| Practice Questions | 1000+ |
 | Practice Exams | 12 Full-Length Exams |
 | Hands-on Labs | Azure Free Trial (3 Subscriptions) |
 
