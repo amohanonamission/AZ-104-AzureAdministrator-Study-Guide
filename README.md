@@ -1,12 +1,12 @@
-# Azure Administrator (AZ-104) Study Guide
+# Azure Administrator Associate - Study Guide (AZ-104)
 
-> A practical roadmap for preparing for the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification through self-study, hands-on labs, practice exams, and real Azure experience.
+A practical roadmap for preparing for the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification through self-study, hands-on labs, practice exams, and real Azure experience.
 
 ---
 
-# About This Repository
-
-I created this repository while preparing for the **AZ-104** exam and passed after approximately **1.5 months of self-study**.
+## About This Repository
+I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, documenting my journey as I progressed:
+I created this repository while preparing for the **AZ-104** exam and passed after approximately **5-6 weeks of self-study**.
 
 Instead of relying on memorization, I focused on understanding:
 
@@ -20,7 +20,7 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ---
 
-# My Exam Results
+## My Exam Results
 
 | Item | Details |
 |------|---------|
