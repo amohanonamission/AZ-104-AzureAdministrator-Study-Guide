@@ -13,7 +13,7 @@
 
 ### 1. Video Course
 
-- John Savill AZ-104 [Playlist](https://www.youtube.com/watch?v=usvlTo0TDoA&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
+- John Savill AZ-104 [Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
 - John Savill AZ-104 Study Cram
 
 ### 2. Documentation
