@@ -1,5 +1,5 @@
-# Security+ Study Guide (Detailed Tips)
-> A practical roadmap for anyone starting their **AZ-104** journey — curated from my experience passing the exam in 40 days.
+# AZ - 104 Study Guide (Detailed Tips)
+> A practical roadmap for anyone starting their **Azure Admininstrator Associate** journey — curated from my experience passing the exam in ~40 days.
 
 ## Study Philosophy
 - Immerse yourself with curiosity and genuine interest.
@@ -11,17 +11,17 @@
 
 ## Resources I Used
 
-### Video Course
+### 1. Video Course
 
-- John Savill AZ-104 Playlist
+- John Savill AZ-104 [Playlist](https://www.youtube.com/watch?v=usvlTo0TDoA&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
 - John Savill AZ-104 Study Cram
 
-### Documentation
+### 2. Documentation
 
-- Microsoft Learn
+- Microsoft Learn 
 - Microsoft Azure Documentation
 
-### Practice Exams
+### 3. Practice Exams
 
 - Two Udemy AZ-104 Practice Exam Courses
 - Approximately 700+ practice questions
