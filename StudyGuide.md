@@ -14,17 +14,17 @@
 ### 1. Video Course
 
 - John Savill AZ-104 [Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
-- John Savill AZ-104 Study Cram
+- John Savill AZ-104 [Study Cram](https://youtu.be/0Knf9nub4-k?si=c-Ttnxz92gTVmvTe)
 
 ### 2. Documentation
 
-- Microsoft Learn 
+- Microsoft Learn [Course](https://learn.microsoft.com/en-us/training/courses/az-104t00)
 - Microsoft Azure Documentation
 
 ### 3. Practice Exams
 
-- Two Udemy AZ-104 Practice Exam Courses
-- Approximately 700+ practice questions
+- Two Udemy AZ-104 Practice Exam Courses [Series 1](https://www.udemy.com/share/10cqqx3@zBx9_zNQ3iJtZyH8R-AOh6PR7Yu7LEfoJpLymx6pvD9ChqCKJ6s8UaQw0Z3nikw7/) [Series 2](https://www.udemy.com/share/10f1Mp3@e25MJuoWl3ghkQrsHCd1mmSXGLNcilDgjvpV_rT5jONnIXaOwhO_jK5KBlAL-N3q/)
+- Approximately 1000+ practice questions
 
 ### Hands-on Practice
 
