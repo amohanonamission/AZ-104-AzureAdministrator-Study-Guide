@@ -5,16 +5,21 @@ A practical roadmap for preparing for the **Microsoft Certified: Azure Administr
 ---
 
 ## About This Repository
-I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, documenting my journey as I progressed:
-I created this repository while preparing for the **AZ-104** exam and passed after approximately **5-6 weeks of self-study**.
+I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, and documented my journey as I progressed. I followed this structured plan:
+
+- Watched John Savill's playlist videos
+- Used MS Learn and AI for deeper understanding
+- Did Udemy practice exams
+- Simulated theory and exam scenarios in labs
+- Used AI to quiz myself
 
 Instead of relying on memorization, I focused on understanding:
 
 - Why Azure services exist
-- When each service should be used
 - How Azure services interact
-- Microsoft's recommended administrative practices
-- Real-world Azure administration
+- When each service should be used
+- Microsoft's recommended and best use administrative practices
+- Real-world application and projects creation
 
 This repository documents the study strategy that worked for me and serves as a reference for anyone preparing for the certification.
 
