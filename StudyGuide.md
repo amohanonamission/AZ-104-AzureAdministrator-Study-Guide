@@ -1,3 +1,13 @@
+# Security+ Study Guide (Detailed Tips)
+> A practical roadmap for anyone starting their **AZ-104** journey — curated from my experience passing the exam in 40 days.
+
+## Study Philosophy
+- Immerse yourself with curiosity and genuine interest.
+- Start with fundamentals: Networking, Compute, Storage, Identity, Governance, Monitoring.
+- Practice scenarios in a lab — concepts are hard to comprehend without hands-on experience.
+- Use AI to quiz yourself, recall definitions, simulate exam scenarios, and validate understanding.
+- Use practice exams to practice focus and time management, and get a real feel of the exam.
+- Track your weak areas in a notes file for daily revision.
 
 ## Resources I Used
 
