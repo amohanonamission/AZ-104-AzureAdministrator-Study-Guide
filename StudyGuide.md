@@ -26,7 +26,7 @@
 - Two Udemy AZ-104 Practice Exam Courses ([Test Series 1](https://www.udemy.com/share/10cqqx3@zBx9_zNQ3iJtZyH8R-AOh6PR7Yu7LEfoJpLymx6pvD9ChqCKJ6s8UaQw0Z3nikw7/)) | ([Test Series 2](https://www.udemy.com/share/10f1Mp3@e25MJuoWl3ghkQrsHCd1mmSXGLNcilDgjvpV_rT5jONnIXaOwhO_jK5KBlAL-N3q/))
 - Approximately 1000+ practice questions
 
-### Hands-on Practice
+### 4. Hands-on Practice
 
 - [Azure Portal](https://portal.azure.com/)
 - Three Azure Free Trial subscriptions
