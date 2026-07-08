@@ -30,7 +30,7 @@
 
 - [Azure Portal](https://portal.azure.com/)
 - Three Azure Free Trial subscriptions
-- Personal lab deployments
+- Personal lab deployments & documentations
 
 ### AI-Assisted Learning
 
