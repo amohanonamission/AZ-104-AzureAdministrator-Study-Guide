@@ -29,7 +29,7 @@
 ### Hands-on Practice
 
 - Three Azure Free Trial subscriptions
-- Azure Portal
+- [Azure Portal](https://portal.azure.com/)
 - Personal lab deployments
 
 ### AI-Assisted Learning
