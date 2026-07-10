@@ -7,27 +7,17 @@ A practical roadmap to prepare for the **Microsoft Certified: Azure Administrato
 ## About This Repository
 I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, and documented my journey as I progressed. I followed this structured plan:
 
-- Watched John Savill's playlist videos
-- Used MS Learn and AI for deeper understanding
-- Did Udemy practice exams
-- Simulated theory and exam scenarios in labs
-- Used AI to quiz myself
-
-Instead of relying on memorization, I focused on understanding:
-
-- Why Azure services exist
-- How Azure services interact
-- When each service should be used
-- Microsoft's recommended and best use administrative practices
-- Real-world application and projects creation
+- Watched John Savill's playlist videos and study cram.
+- Used MS Learn and free material for deeper understanding.
+- Solved 12 Udemy practice exams including 1000+ questions.
+- Simulated theory and exam scenarios in labs using multiple Azure free trial.
+- Used AI to quiz myself, compare services, and review incorrect answers.
 
 This repository documents the study strategy that worked for me and serves as a reference for anyone preparing for the certification.
 
 ---
 
-
-
-## My Exam Results
+## Exam Results
 
 | Certification | Microsoft Certified: Azure Administrator Associate |
 |------|---------|
@@ -55,131 +45,8 @@ This repository documents the study strategy that worked for me and serves as a 
 
 [💡 Resources](../docs/Resources.md)
 
-[🧠 Exam Day Revision](../notes/ExamDayChecklist.md)
+[🧠 Final Revision](../notes/ExamDayChecklist.md)
 
-## Resources I Used
-
----
-
-### Video Course
-
-- John Savill AZ-104 Playlist
-- John Savill AZ-104 Study Cram
-
-### Documentation
-
-- Microsoft Learn
-- Microsoft Azure Documentation
-
-### Practice Exams
-
-- Two Udemy AZ-104 Practice Exam Courses
-- Approximately 700+ practice questions
-
-### Hands-on Practice
-
-- Three Azure Free Trial subscriptions
-- Azure Portal
-- Personal lab deployments
-
-### AI-Assisted Learning
-
-I regularly used AI to:
-
-- Explain difficult concepts
-- Compare Azure services
-- Review incorrect answers
-- Generate additional practice questions
-- Create real-world scenarios
-- Reinforce weak topics
-
----
-
-## My Study Strategy
-
-### Phase 1 — Learn the Core Services
-
-Start by understanding the six major Azure pillars.
-
-- Compute
-- Storage
-- Networking
-- Identity
-- Governance
-- Monitoring
-
-At this stage, avoid trying to memorize every configuration option.
-
-Focus on understanding **what each service does** and **why it exists.**
-
----
-
-### Phase 2 — Build Everything Yourself
-
-Hands-on experience made the biggest difference.
-
-Create an Azure Free Trial subscription and deploy resources yourself.
-
-Practice creating and managing:
-
-- Resource Groups
-- Virtual Machines
-- Storage Accounts
-- Virtual Networks
-- Network Security Groups
-- Azure Monitor
-- Azure Backup
-- Microsoft Entra ID
-- RBAC
-- Azure Policy
-- Load Balancers
-- Private Endpoints
-- VPN Gateway
-
-Don't just read about Azure.
-
-Use it.
-
----
-
-### Phase 3 — Practice Exams
-
-This was the single biggest contributor to passing.
-
-I completed approximately **12 full-length practice exams** consisting of more than **700 questions.**
-
-For every incorrect answer:
-
-- Read Microsoft's explanation
-- Read Microsoft Learn documentation
-- Research the Azure service
-- Understand why the other options were incorrect
-
-The goal is **pattern recognition**, not memorization.
-
----
-
-### Phase 4 — Final Revision
-
-During the final few days, I focused on:
-
-- John Savill's Study Cram
-- Reviewing incorrect practice questions
-- Revisiting Microsoft Learn
-- Spending time inside the Azure Portal
-- Reviewing architecture diagrams
-- Revising common Azure scenarios
-
----
-
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| StudyGuide.md | Complete study roadmap |
-| Resources.md | Learning resources, videos, documentation, labs |
-| PracticeQuestions.md | Practice questions and explanations |
-| ExamTips.md | Final revision checklist and exam tips |
 
 ---
 
@@ -269,21 +136,6 @@ During the final few days, I focused on:
 
 ---
 
-## Tips for Future Candidates
-
-✅ Spend time inside the Azure Portal.
-
-✅ Don't memorize service names—understand use cases.
-
-✅ Read why wrong answers are wrong.
-
-✅ Microsoft Learn is your best friend.
-
-✅ Practice exams are valuable only if you review every mistake.
-
-✅ Learn how Azure services work together rather than studying them in isolation.
-
----
 
 ## Important Note
 
@@ -295,37 +147,16 @@ My preparation included:
 - Previous cybersecurity and compliance experience
 - Daily hands-on Azure practice
 - Approximately six weeks of focused study
+- Taking Security+ and AZ-900 prior to this (Pass)
 
-If you're completely new to Azure, consider extending your preparation timeline and spending additional time working through Microsoft Learn modules and hands-on labs before scheduling the exam.
-
----
-
-## Future Improvements
-
-This repository will continue to grow with:
-
-- More practice questions
-- Architecture diagrams
-- Lab walkthroughs
-- ARM/Bicep examples
-- Terraform examples
-- Azure CLI scripts
-- PowerShell examples
-- Real-world administration scenarios
+If you're completely new to Azure, or IT in general consider extending your preparation timeline and spending additional time working through Microsoft Learn modules and hands-on labs before scheduling the exam.
 
 ---
 
-## License
-
-Free to use for learning and personal study.
-
-Feel free to fork the repository, contribute improvements, or use it as a reference for your own certification journey.
-
----
 
 ## Final Thought
 
-**REMEMBER:** CLOUD ISN'T ABOUT MEMORIZING SERVICES. IT'S ABOUT UNDERSTANDING ARCHITECTURE, SOLVING PROBLEMS, AUTOMATING REPETITIVE TASKS, AND CONTINUALLY LEARNING AS THE PLATFORM EVOLVES.
+**REMEMBER:** CLOUD ISN'T ABOUT MEMORIZING SERVICES. IT'S ABOUT UNDERSTANDING ARCHITECTURE, FINDING THE RIGHT SOLUTIONS, SECURING RESOURCES, AUTOMATING REPETITIVE TASKS, AND CONTINUALLY LEARNING AS THE PLATFORM EVOLVES.
 
 > **GOOD LUCK ON YOUR AZURE JOURNEY! ☁️**
 
@@ -334,112 +165,6 @@ Feel free to fork the repository, contribute improvements, or use it as a refere
 ---
 ---
 
-## Azure Administrator (AZ-104) Study Guide
-
-A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study strategy, resources, hands-on practice, and lessons learned from passing the exam through self-study.
-
-### About This Repository
-
-I passed Microsoft Azure Administrator (AZ-104) after approximately 1.5 months of preparation.
-
-#### Exam Stats:
-
-```
-Exam: AZ-104 – Microsoft Azure Administrator Associate
-
-Result: Passed
-Preparation Time: ~1.5 months
-Practice Questions Completed: ~700+
-Practice Exams: 12
-Hands-on Labs: Azure Free Trial (3 subscriptions)
-
-Primary Resources:
-• John Savill
-• Microsoft Learn
-• Azure Portal
-• AI-assisted concept review
-```
-
-### My preparation included:
-
-1. Watching the complete John Savill AZ-104 playlist and Study Cram
-2. Completing approximately 12 full-length Udemy practice exams
-3. Solving 700+ practice questions
-4. Using Microsoft Learn documentation for deeper understanding
-5. Building and testing services using three Azure Free Trial subscriptions
-6. Using AI to explain concepts, compare Azure services, generate additional practice questions, and review incorrect answers
-7. Building GitHub projects alongside studying to reinforce concepts
-
-**Rather than memorizing answers, I focused on understanding:**
-
-1. Why Azure services exist
-2. When each service should be used
-3. How Azure services interact with one another
-4. Microsoft's recommended administrative practices
-5. How to Study for AZ-104
-6. Phase 1 – Learn the Fundamentals
-
-**Start with the core Azure services:**
-
-* Compute
-* Storage
-* Networking
-* Identity
-* Governance
-* Monitoring
-
-The goal is to understand each service—not memorize every configuration option.
-
-### Phase 2 – Hands-On Practice
-
-Create an Azure Free Trial subscription and build resources yourself.
-
-Practice deploying and managing:
-
-Virtual Machines
-Resource Groups
-Storage Accounts
-Virtual Networks
-NSGs
-Load Balancers
-Azure Monitor
-Azure Backup
-Microsoft Entra ID
-RBAC
-Azure Policy
-
-Nothing replaces hands-on experience.
-
-### Phase 3 – Practice Exams
-
-This was the biggest contributor to my success.
-
-Complete full-length practice exams and review every incorrect answer.
-
-For every mistake:
-
-Read Microsoft's explanation
-Review Microsoft Learn documentation
-Research the service further
-Understand why the other answers are incorrect
-
-Pattern recognition becomes extremely valuable on AZ-104.
-
-### Phase 4 – Final Revision
-
-Finish your preparation with:
-
-John Savill Study Cram
-Reviewing incorrect questions
-Revisiting Microsoft Learn
-Spending time in the Azure Portal
-Reviewing architecture diagrams
-Repository Contents
-File	Purpose
-StudyGuide.md	Detailed study strategy and preparation plan
-Resources.md	Videos, Microsoft Learn, labs, documentation, and practice exams
-PracticeQuestions.md	AI-generated AZ-104 style questions
-ExamTips.md	Final-week preparation and exam strategy
 Topics Covered
 Identity
 Microsoft Entra ID
@@ -509,89 +234,6 @@ Good luck on your Azure journey!
 ---
 
 
-## Azure Administrator (AZ-104) Study Guide
-
-> A practical roadmap for preparing for the Microsoft Azure Administrator (AZ-104) certification. This repository documents the study approach, resources, and techniques that helped me pass the exam through self-study.
-
-About This Repository
-
-I passed the Microsoft Certified: Azure Administrator Associate (AZ-104) exam after approximately 1.5 months of preparation.
-
-My study included:
-
-Studying for approximately 5–6 weeks
-Creating three Azure Free Trial subscriptions for hands-on practice
-Completing 12 full-length Udemy practice exams
-Watching the complete John Savill AZ-104 course and study cram
-Reading Microsoft Learn documentation
-Using AI to explain concepts, review mistakes, and generate additional scenarios
-Building personal Azure projects and GitHub repositories alongside studying
-
-Rather than memorizing answers, I focused on understanding why Azure services exist, when they should be used, and how they work together.
-
-Study Strategy
-Phase 1 — Build Foundations
-
-Learn the major Azure services.
-
-Focus on understanding:
-
-Compute
-Networking
-Storage
-Identity
-Governance
-Monitoring
-
-Avoid memorizing every setting initially.
-
-Phase 2 — Hands-on Practice
-
-Create an Azure trial subscription.
-
-Deploy resources yourself.
-
-Examples:
-
-Virtual Machines
-VNets
-NSGs
-Storage Accounts
-Azure Monitor
-Resource Groups
-RBAC
-Azure Backup
-
-Nothing replaces clicking through the Azure Portal.
-
-### Phase 3 — Practice Exams
-
-I completed roughly twelve practice exams.
-
-For every incorrect answer:
-
-Read Microsoft's explanation
-Read Microsoft Learn
-Research the service
-Understand why the wrong answers were incorrect
-
-This improved pattern recognition significantly.
-
-### Phase 4 — Review
-
-Finish with:
-
-John Savill's Study Cram
-Reviewing incorrect questions
-Reviewing Microsoft Learn pages
-Revisiting Azure Portal
-Repository Contents
-File	Description
-StudyGuide.md	Detailed study approach
-Resources.md	Videos, Microsoft Learn, practice exams
-PracticeQuestions.md	AI-generated practice questions
-ExamTips.md	Tips for the exam and preparation
-
 ### Repository Contents
 
 File	Description
@@ -625,18 +267,3 @@ Important Note
 
 ---
 
-### This repository reflects my own preparation strategy.
-
-I do not recommend trying to complete AZ-104 in only a few days.
-
-The exam expects you to understand Azure administration concepts—not simply memorize service names.
-
-Spend time using the Azure Portal, reading Microsoft Learn, and practicing deployments.
-
----
-
-### Final Thought
-
-Cloud isn't about memorizing services. It's about understanding architecture, choosing the right tool for the right problem, and continuously learning as the platform evolves.
-
-Good luck with your Azure journey.
