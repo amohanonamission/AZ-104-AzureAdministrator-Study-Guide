@@ -20,7 +20,7 @@
 
 - [Azure Portal](https://portal.azure.com/)
 - Three Azure Free Trial subscriptions
-- Personal [lab deployments & documentations](../practice/HomeLab.md)
+- Personal [lab deployments & documentations](../practice/HomeLabs.md)
 
 ### 5. AI-Assisted Learning
 
