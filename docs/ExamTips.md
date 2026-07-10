@@ -1,5 +1,21 @@
 ExamTips.md
 
+## Tips for Future Candidates
+
+✅ Spend time inside the Azure Portal.
+
+✅ Don't memorize service names—understand use cases.
+
+✅ Read why wrong answers are wrong.
+
+✅ Microsoft Learn is your best friend.
+
+✅ Practice exams are valuable only if you review every mistake.
+
+✅ Learn how Azure services work together rather than studying them in isolation.
+
+---
+
 - Take your time with this material
 - This exam expects you to be a sys admin, and know all the functionalities of Azure cloud platform. 
 - So the syllabus is mile wide, which could be a pain
