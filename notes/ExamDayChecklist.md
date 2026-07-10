@@ -1,10 +1,10 @@
-## Exam Day Preparation - Memory and Mentality
+# Exam Day Preparation - Memory and Mentality
 
 Read this on the morning of the exam. (or on the day before)
 
 ---
 
-### If you have the time before the exam:
+## If you have the time before the exam:
 
 - Watch this [AZ-104 Study Cram](https://youtu.be/0Knf9nub4-k?si=gcCdGrmFYzf4v5vf) by John Savill. It is an excellent refresher. (I watched it at 2x speed to save time.)
 
@@ -67,7 +67,7 @@ If you can explain each of these concepts in one or two sentences without lookin
 
 ---
 
-### Things to remember:
+## Things to remember:
 
 If you have been following everything outlined here in the [Study Guide](../docs/StudyGuide.md) over the past 5-6 weeks, I think you have a realistic chance of passing.
 
@@ -84,7 +84,7 @@ That's exactly what AZ-104 is trying to test.
 
 ---
 
-### During the Exam
+## During the Exam
 
 - Read every question carefully.
 - Identify the actual requirement before looking at the answer choices.
@@ -95,7 +95,7 @@ That's exactly what AZ-104 is trying to test.
 
 ---
 
-### Final Message
+## Final Message
 
 Remember, it's a two-hour exam. **Stay calm, stay focused, and manage your time well.**
 
