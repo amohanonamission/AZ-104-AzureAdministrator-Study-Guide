@@ -19,7 +19,7 @@
 ### 4. Hands-on Practice
 
 - [Azure Portal](https://portal.azure.com/)
-- Three Azure Free Trial subscriptions
+- Azure Free Trial subscription(s)
 - Personal [lab deployments & documentations](../practice/HomeLabs.md)
 - Build: VMs, Storage, VNets, NSGs, RBAC, Azure Backup, Azure Monitor
 - Deploy resources. Break. Delete. Rebuild. Repeat.
