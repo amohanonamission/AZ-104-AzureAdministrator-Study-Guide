@@ -39,13 +39,13 @@ This repository documents the study strategy that worked for me and serves as a 
 
 [📝 Practice Questions  –>](./practice/PracticeQuestions.md)  100 practice questions with answer keys
 
-[✅ Exam Tips  –>](../docs/ExamTips.md)  Preparation advice and exam-day strategies
+[✅ Exam Tips  –>](./docs/ExamTips.md)  Preparation advice and exam-day strategies
 
-[🧪 Hands-on Labs  –>](../practice/PracticeQuestions.md)  Azure Portal exercises to reinforce concepts
+[🧪 Hands-on Labs  –>](./practice/PracticeQuestions.md)  Azure Portal exercises to reinforce concepts
 
-[💡 Resources  –>](../docs/Resources.md)  Videos, Microsoft Learn, practice exams, and useful links
+[💡 Resources  –>](./docs/Resources.md)  Videos, Microsoft Learn, practice exams, and useful links
 
-[🧠 Final Revision  –>](../notes/ExamDayChecklist.md)  Final day checklist before taking the exam
+[🧠 Final Revision  –>](./notes/ExamDayChecklist.md)  Final day checklist before taking the exam
 
 ---
 
