@@ -49,17 +49,6 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ---
 
-## Who is it for?
-
-This repository is intended for:
-
-- Students preparing for AZ-104
-- IT professionals transitioning into Azure
-- Anyone who prefers hands-on learning over memorization
-- Candidates looking for concise notes, practice questions, and revision material
-
----
-
 ## Topics Covered
 
 ### Identity
