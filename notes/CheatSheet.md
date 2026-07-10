@@ -339,13 +339,17 @@ DNAT
 
 ### Bastion
 
-Secure RDP/SSH.
+-Secure RDP/SSH.
 
-No Public IP required.
+-No Public IP required.
 
-Access through Azure Portal.
+-Subnet Requirement /26 or higher
 
-Very common exam answer.
+-Name: AzureBastionSubnet
+
+-Access through Azure Portal
+
+-Very common exam answer
 
 ---
 
