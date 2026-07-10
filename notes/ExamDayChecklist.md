@@ -10,7 +10,7 @@ Look at this document on the day of the exam. (or one day before)
 
 - Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision.
 
-Take a relaxing shower and do some breath work.
+- Take a relaxing shower and do some breath work.
 
 ---
 
