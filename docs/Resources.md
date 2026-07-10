@@ -45,6 +45,6 @@
 
 ---
 
-Learn. Unlearn. Relearn. Repeat.
+Learn. Unlearn. Relearn. Repeat. | 
 Deploy. Break. Delete. Rebuild. Repeat.
 ---
