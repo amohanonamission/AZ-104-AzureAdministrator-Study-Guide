@@ -45,7 +45,6 @@
 
 ---
 
-
-Generate scenario-based questions
-Simulate case studies
-Review Microsoft Learn topics
+Learn. Unlearn. Relearn. Repeat.
+Deploy. Break. Delete. Rebuild. Repeat.
+---
