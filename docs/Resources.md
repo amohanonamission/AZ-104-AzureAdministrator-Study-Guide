@@ -1,4 +1,4 @@
-# Resources I used for my preparation.
+## Resources I used for my preparation.
 
 ### 1. Video Course
 
@@ -22,7 +22,7 @@
 - Three Azure Free Trial subscriptions
 - Personal [lab deployments & documentations](../practice/HomeLab.md)
 
-### AI-Assisted Learning
+### 5. AI-Assisted Learning
 
 I regularly used AI to:
 
