@@ -6,9 +6,9 @@ Look at this document on the day of the exam. (or one day before)
 
 ### If you have the time before the exam:
 
-If you have time before the exam, watch this [Study Cram](https://youtu.be/0Knf9nub4-k?si=gcCdGrmFYzf4v5vf) by John Savill. It is an excellent refresher. (Watch at 2x speed to save time.)
+- If you have time before the exam, watch this [Study Cram](https://youtu.be/0Knf9nub4-k?si=gcCdGrmFYzf4v5vf) by John Savill. It is an excellent refresher. (Watch at 2x speed to save time.)
 
-Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision.
+- Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision.
 
 Take a relaxing shower and do some breath work.
 
