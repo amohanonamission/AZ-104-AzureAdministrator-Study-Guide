@@ -10,7 +10,60 @@ Read this on the morning of the exam. (or on the day before)
 
 - Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision of the core concepts.
 
-- Take a relaxing shower and do some breath work.
+- Get a good night's sleep, take a relaxing shower, and spend a few minutes doing breathing exercises before leaving for the exam
+
+---
+
+## ⭐ Memory Nuggets
+
+If you can explain each of these concepts in one or two sentences without looking at your notes, you're in a strong position for AZ-104.
+
+### Identity & Governance
+
+- **RBAC** = Who can perform actions
+- **Azure Policy** = What is allowed or denied
+- **Resource Locks** = Protect resources from accidental changes or deletion
+
+### Networking
+
+- **NSG** = Filters inbound and outbound network traffic
+- **ASG** = Logically groups VMs for NSG rules
+- **UDR** = Overrides Azure's default routing
+- **Service Endpoint** = Secure access to Azure PaaS services over the Azure backbone while keeping public endpoints
+- **Private Endpoint** = Private IP address for Azure PaaS services
+- **Load Balancer** = Layer 4 (TCP/UDP) load balancing
+- **Application Gateway** = Layer 7 (HTTP/HTTPS) load balancing with WAF support
+- **Traffic Manager** = DNS-based global traffic routing
+- **Front Door** = Global HTTP(S) load balancing, acceleration, and WAF
+- **VPN Gateway** = Encrypted connection over the public Internet
+- **ExpressRoute** = Private dedicated connection to Azure
+- **NAT Gateway** = Provides outbound Internet connectivity for private resources
+
+### Storage
+
+- **Blob Storage** = Object storage for unstructured data
+- **Azure Files** = Managed SMB/NFS file shares
+- **Queue Storage** = Message storage for asynchronous communication
+- **Table Storage** = NoSQL key-value data store
+- **SAS** = Delegated, time-limited access to storage resources
+- **Lifecycle Management** = Automatically moves or deletes blobs based on rules
+
+### Compute
+
+- **VM Scale Sets** = Automatically scale virtual machines
+- **Availability Set** = Protects VMs from host failures and maintenance within a datacenter
+- **Availability Zone** = Protects workloads across physically separate datacenters
+- **Azure Backup** = Backup and recovery solution
+- **Azure Site Recovery** = Disaster recovery and failover
+
+### Monitoring
+
+- **Azure Monitor** = Collects metrics and logs
+- **Log Analytics** = Query and analyze logs using KQL
+- **Alerts** = Notify when conditions are met
+- **Action Groups** = Define notification and automation actions
+- **Azure Advisor** = Best-practice recommendations
+- **Service Health** = Azure service outages and maintenance events
 
 ---
 
@@ -40,8 +93,10 @@ That's exactly what AZ-104 is trying to test.
 - Trust the preparation you've already put in.
 - Skip any question taking more than 2 minutes of your time.
 
-Remember, it's a two-hour exam. **Stay calm, stay focused, and manage your time well.**
-
 ---
+
+### Final Message
+
+Remember, it's a two-hour exam. **Stay calm, stay focused, and manage your time well.**
 
 > Go ahead and slay the dragon! All the best - you've got this. ☁️
