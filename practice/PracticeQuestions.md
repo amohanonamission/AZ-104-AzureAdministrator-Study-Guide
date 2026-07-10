@@ -34,7 +34,7 @@ Read slowly. Treat each one like an exam moment. Do deep research on any questio
 
 ---
 
-### Identity & Governance (1–25)
+### Section 1 - Identity & Governance (1–25)
 
 ```
 (Q1.) You need to grant a user permission to manage virtual machines in a resource group without allowing access to other resource groups.
@@ -192,9 +192,8 @@ C. Azure Advisor
 
 D. Azure Policy
 
-Q14
 
-What is the primary purpose of Administrative Units?
+(Q14) .What is the primary purpose of Administrative Units?
 
 A. Organize Azure subscriptions
 
@@ -204,9 +203,8 @@ C. Create resource groups
 
 D. Manage storage accounts
 
-Q15
 
-Which Microsoft Entra group type supports assigning Azure RBAC roles?
+(Q15). Which Microsoft Entra group type supports assigning Azure RBAC roles?
 
 A. Distribution Group only
 
@@ -215,6 +213,7 @@ B. Microsoft 365 Group only
 C. Security Group
 
 D. Mail-enabled Contact
+
 
 Q16
 
@@ -326,9 +325,8 @@ C. Backup
 
 D. Networking
 
-Q25
 
-A company wants to ensure that storage accounts can only be created in approved Azure regions.
+(Q25). A company wants to ensure that storage accounts can only be created in specific Azure regions. (only East US and West Europe)
 
 Which Azure feature should be used?
 
@@ -341,30 +339,41 @@ C. Azure Policy
 D. Azure Backup
 ```
 
-### Storage (26–50)
+### Section 2 - Storage (26–50)
 
 
-### Networking (51–75)
+### Section 3 - Networking (51–75)
 
 
-### Compute, Monitoring & Recovery (76–100)
+### Section 4 - Compute, Monitoring & Recovery (76–100)
 
 
 ---
 
 ## Answer Key
 
+### Section 1 - Identity & Governance (1–25)
+
 | Q | Ans | Q  | Ans | Q  | Ans |
 | - | --- | -- | --- | -- | --- |
-| 1 | C   | 10 | C   | 19 | B   |
-| 2 | C   | 11 | B   | 20 | B   |
-| 3 | C   | 12 | B   | 21 | B   |
-| 4 | B   | 13 | B   | 22 | B   |
-| 5 | C   | 14 | B   | 23 | B   |
-| 6 | B   | 15 | C   | 24 | B   |
-| 7 | C   | 16 | C   | 25 | C   |
-| 8 | B   | 17 | C   |    |     |
-| 9 | C   | 18 | C   |    |     |
+| **1** | C   | **10** | C   | **19** | B   |
+| **2** | C   | **11** | B   | **20** | B   |
+| **3** | C   | **12** | B   | **21** | B   |
+| **4** | B   | **13** | B   | **22** | B   |
+| **5** | C   | **14** | B   | **23** | B   |
+| **6** | B   | **15** | C   | **24** | B   |
+| **7** | C   | **16** | C   | **25** | C   |
+| **8** | B   | **17** | C   |    |     |
+| **9** | C   | **18** | C   |    |     |
+
+### Section 2 - Storage (26–50)
+
+
+
+### Section 3 - Networking (51–75)
+
+
+### Section 4 - Compute, Monitoring & Recovery (76–100)
 
 
 
