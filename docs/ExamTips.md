@@ -1,7 +1,227 @@
-# Exam Tips for Azure Administrator Associate (AZ-104) Candidates
+# AZ-104 Exam Tips & Lessons Learned
 
 These are the lessons I learned while preparing for and taking the AZ-104 exam. Some are study tips, while others are exam-day strategies that helped me approach Microsoft's questions more effectively.
 
+> The advice I wish someone had given me before taking the AZ-104 exam.
+---
+
+## 1. Understand — Don't Memorize
+
+The exam isn't designed to test whether you've memorized Azure service names.
+
+#### It's designed to test whether you understand:
+
+- Why a service exists
+- When it should be used
+- How it compares to similar services
+- Which solution best satisfies a business requirement
+
+#### Whenever you're learning a service, ask yourself:
+
+- What problem does this solve?
+- When would I recommend it?
+- Why wouldn't I use the alternatives?
+
+
+### 2. Think Like an Azure Administrator
+
+Most questions aren't asking:
+
+> "Do you know this service?"
+
+They're asking:
+
+> "Can you make the right administrative decision?"
+
+#### That means balancing:
+
+- Cost
+- Security
+- High Availability
+- Scalability
+- Administrative effort
+- Business requirements
+
+
+### 3. Microsoft Loves Certain Keywords
+
+Always identify what the question is optimizing for.
+
+#### Watch for phrases like:
+
+- Least administrative effort
+- Lowest cost
+- Most secure
+- High availability
+- Business continuity
+- Minimize downtime
+- Azure-native solution
+- Least privilege
+
+These keywords often eliminate half the answer choices immediately.
+
+### 4. Learn Azure's Vocabulary
+
+AZ-104 covers a huge amount of material.
+
+The hardest part isn't the individual concepts.
+
+It's becoming comfortable with Azure terminology.
+
+#### Eventually your brain should immediately recognize things like:
+
+- NSG
+- RBAC
+- VNet Peering
+- Managed Identity
+- Recovery Services Vault
+- Application Gateway
+- Front Door
+- VM Scale Sets
+
+Once the vocabulary becomes familiar, the exam becomes much easier.
+
+### 5. Spend Time in the Azure Portal
+
+Nothing replaces hands-on practice.
+
+Deploy resources.
+
+Break them.
+
+Delete them.
+
+Build them again.
+
+Even simple labs help you remember where services live and how they're configured.
+
+6. Review Your Wrong Answers
+
+This was the single biggest contributor to my preparation.
+
+Don't celebrate getting a question right.
+
+Spend more time reviewing the ones you got wrong.
+
+For every incorrect answer ask:
+
+Why was I wrong?
+Why is the correct answer correct?
+Why are the other options incorrect?
+Which Azure service was actually being tested?
+7. Microsoft Learn Is Your Best Friend
+
+Whenever a practice question confuses you:
+
+Open Microsoft Learn.
+Read the documentation.
+Understand the service.
+
+Don't rely only on practice exam explanations.
+
+8. Know the Common Comparisons
+
+Many questions simply ask you to choose between similar Azure services.
+
+Know these extremely well:
+
+RBAC vs Azure Policy
+Azure Policy vs Resource Locks
+Blob Storage vs Azure Files
+Service Endpoint vs Private Endpoint
+VPN Gateway vs ExpressRoute
+Load Balancer vs Application Gateway
+Traffic Manager vs Azure Front Door
+Azure Backup vs Azure Site Recovery
+Availability Set vs Availability Zone
+LRS vs ZRS vs GRS vs RA-GRS
+Managed Identity vs Service Principal
+9. Read the Last Sentence First
+
+This helped me throughout the exam.
+
+Before reading the scenario, look at the actual requirement.
+
+Then identify:
+
+What is the question asking?
+What is the priority?
+What is being optimized?
+
+Then read the scenario.
+
+10. If Two Answers Look Correct...
+
+Ask yourself:
+
+Which one:
+
+Requires less administration?
+Is more secure?
+Is fully managed?
+Is Azure-native?
+Satisfies every requirement?
+
+Microsoft usually wants the best overall solution—not just one that works.
+
+11. The Exam Is Broad
+
+AZ-104 isn't difficult because one topic is extremely hard.
+
+It's difficult because it touches almost every area of Azure administration:
+
+Identity
+Compute
+Networking
+Storage
+Governance
+Monitoring
+Backup
+Disaster Recovery
+
+Accept that you won't memorize everything.
+
+Build understanding instead.
+
+12. Build the Azure Way of Thinking
+
+By exam day, you shouldn't just know Azure.
+
+You should start thinking like an Azure Administrator.
+
+That means:
+
+Understanding architecture
+Solving business problems
+Choosing managed services where appropriate
+Designing secure solutions
+Balancing cost and performance
+Continuously learning
+
+That's ultimately what Microsoft is trying to measure.
+
+Final Thought
+
+If you've:
+
+Studied consistently
+Built resources yourself
+Reviewed your mistakes
+Used Microsoft Learn
+Practiced real scenarios
+
+...then trust your preparation.
+
+No one walks into AZ-104 knowing everything.
+
+
+---
+
+Good luck with your AZ-104 journey! You've got this!☁️
+
+---
+---
+---
 ---
 
 ## Before the Exam
