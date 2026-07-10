@@ -1,14 +1,14 @@
 ## Exam Day Preparation - Memory and Mentality
 
-Look at this document on the day of the exam. (or one day before)
+Read this on the morning of the exam. (or on the day before)
 
 ---
 
 ### If you have the time before the exam:
 
-- If you have time before the exam, watch this [Study Cram](https://youtu.be/0Knf9nub4-k?si=gcCdGrmFYzf4v5vf) by John Savill. It is an excellent refresher. (Watch at 2x speed to save time.)
+- Watch this [AZ-104 Study Cram](https://youtu.be/0Knf9nub4-k?si=gcCdGrmFYzf4v5vf) by John Savill. It is an excellent refresher. (I watched it at 2x speed to save time.)
 
-- Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision.
+- Go through the [Cheat Sheet](../notes/CheatSheet.md) for a quick revision of the core concepts.
 
 - Take a relaxing shower and do some breath work.
 
@@ -16,24 +16,32 @@ Look at this document on the day of the exam. (or one day before)
 
 ### Things to remember:
 
-If you have been following everything mentioned [here](../docs/StudyGuide.md) over the past 4-5 weeks, I think you have a realistic chance of passing.
+If you have been following everything outlined here in the [Study Guide](../docs/StudyGuide.md) over the past 5-6 weeks, I think you have a realistic chance of passing.
 
-Not because you've memorized every Azure service **(you haven't).**
+Not because you've memorized every Azure service **(you probably haven't).**
 
-But, Because you've developed the **Azure way of thinking**. Which means:
+But, Because you've developed the **Azure Administrator way of thinking**. Which means:
 
 - You understand why the services exist.
-- You research rather than memorize.
-- You recognize patterns.
+- You know when each service should be used.
+- You recognize common patterns and architectures.
 - You can reason through unfamiliar scenarios.
 
 That's exactly what AZ-104 is trying to test.
 
 ---
 
-**Bonus**: You can concentrate and go through the high volume exam situation for 2 hours(you definitely need the confidence and composure.)
-Build that resilience. And you are good to pass this exam.
+### During the Exam
+
+- Read every question carefully.
+- Identify the actual requirement before looking at the answer choices.
+- Don't panic if you encounter unfamiliar services or scenarios.
+- Eliminate obviously incorrect options first.
+- Trust the preparation you've already put in.
+- Skip any question taking more than 2 minutes of your time.
+
+Remember, it's a two-hour exam. **Stay calm, stay focused, and manage your time well.**
 
 ---
 
-> Go ahead and slay the dragon! All the best.
+> Go ahead and slay the dragon! All the best - you've got this. ☁️
