@@ -33,11 +33,11 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ## Repository Contents
 
-[📘 Study Guide  –>](../docs/StudyGuide.md)  My preparation strategy and study roadmap
+[📘 Study Guide  –>](./docs/StudyGuide.md)  My preparation strategy and study roadmap
 
-[📖 Cheat Sheet  –>](../notes/CheatSheet.md)  Quick revision notes for all AZ-104 domains
+[📖 Cheat Sheet  –>](./notes/CheatSheet.md)  Quick revision notes for all AZ-104 domains
 
-[📝 Practice Questions  –>](../practice/PracticeQuestions.md)  100 practice questions with answer keys
+[📝 Practice Questions  –>](./practice/PracticeQuestions.md)  100 practice questions with answer keys
 
 [✅ Exam Tips  –>](../docs/ExamTips.md)  Preparation advice and exam-day strategies
 
