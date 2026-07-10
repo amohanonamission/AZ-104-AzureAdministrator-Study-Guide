@@ -19,7 +19,7 @@ The goal is not just memorization, but **reinforcing understanding**, which is k
 - Identify weak areas and revise those topics  
 - Repeat until you can confidently recognize patterns  
 
-## Disclaimer
+### ⚠️ Disclaimer
 
 - Questions are formed with the help of ChatGPT. Once you go through these, you can paste these into a prompt and ask any LLM to generate more of them.
 - These questions do not represent the real exam questions. However, I have tried to cover each topic to reinforce the knowledge to the best of my ability.
@@ -27,7 +27,6 @@ The goal is not just memorization, but **reinforcing understanding**, which is k
 - The best would be to get the exam series from Udemy mentioned [here](../docs/Resources.md)
 
 ---
-
 
 **Answer key is at the end.**
 
