@@ -1,27 +1,38 @@
 # Cheat Sheet
 
-This cheat sheet is made as a quick reference to read before the exam. I have tried to include sufficient information as bullet points here to help understand how each service and function is different from the other and to serve as memory / logical points which can help you pick the right option / eliminate choices in the exam based on the described scenario in the questions.  
+This cheat sheet is made as a quick reference to read before the exam. 
+I have tried to include sufficient information as bullets here to help understand how each service and function is different from the other and to serve as memory / logical points which can help you pick the right option / eliminate choices in the exam based on the described scenario in the questions.  
 
-## ☁️ STORAGE
+## 1. ☁️ STORAGE
 
 ### Blob Storage
 
-Stores **unstructured data**
+#### Supports:
+- Block Blob
+- Append Blob
+- Page Blob (used by unmanaged disks)
 
-Examples:
+#### Stores **unstructured data**
+
+ > Examples:
 
 * Images
 * Videos
-* PDFs
+* Documents
 * Backups
-* VM diagnostics
+* Logs
 
-Storage tiers:
+#### Storage tiers:
 
 * Hot → frequent access
 * Cool → infrequent
 * Cold → long-term (if available)
 * Archive → cheapest, highest retrieval latency
+
+#### ✅ Exam Focus:
+- Default storage for backups and application data
+- Lifecycle Management only applies to Blob Storage
+- Archive has the lowest cost but highest retrieval latency
 
 ---
 
@@ -29,13 +40,13 @@ Storage tiers:
 
 Fully managed SMB/NFS file shares.
 
-Use when:
+#### Use when:
 
 * Multiple VMs need shared files
 * Replace Windows File Server
 * Can sync on-prem using Azure File Sync
 
-Mounted as:
+#### Mounted as:
 
 ```
 \\storageaccount.file.core.windows.net\share
@@ -45,9 +56,10 @@ Mounted as:
 
 ### Queue Storage
 
-Stores messages between applications.
+- Stores messages between applications.
+- Maximum message size: 64 KB
 
-Example:
+#### Example:
 
 App uploads image →
 Queue stores message →
@@ -59,9 +71,13 @@ Decouples applications.
 
 ### Table Storage
 
-NoSQL key-value database.
+- NoSQL key-value database.
 
-Good for:
+#### Uses:
+- Partition Key
+- Row Key
+
+#### Good for:
 
 * Large amounts of structured data
 * Low cost
@@ -99,11 +115,13 @@ Use for:
 
 ### LRS (Locally Redundant Storage)
 
-3 copies
+- 3 copies
+- Same datacenter 
+- Cheapest
 
-Same datacenter
-
-Cheapest
+#### ✅ Exam Focus:
+- Same datacenter but different racks
+- Could be upgraded to ZRS, GRS, or G-ZRS
 
 ---
 
@@ -140,6 +158,18 @@ BUT
 Secondary region can be read.
 
 (Read Access)
+
+---
+### Tabular Representation
+
+| Type   | Copies | Region        | Read Secondary |
+| ------ | ------ | ------------- | -------------- |
+| LRS    | 3      | Same DataCentre | ❌           |
+| ZRS    | 3      | Availability Zones | ❌        |
+| GRS    | 6      | Paired Region | ❌             |
+| G-ZRS  | 6      | 3 AZ Local + 3 in Paired | ❌  |
+| RA-GRS | 6      | Paired Region | ✅             |
+
 
 ---
 
@@ -198,22 +228,31 @@ Used for cost optimization.
 
 ## 🌐 NETWORKING
 
+### Subnetting 
+
+- 5 Addresses are unavailable in each Vnet/ Subnet
+
+#### Example:
+
+- /24 address gives 251 usable addresses.
+- rest used by Azur
+
+
 ### NSG (Network Security Group)
 
-Firewall for
+#### Stateful Firewall for
 
 * VM NIC
 * Subnet
 
-Rules
+#### Rules
 
-Allow/Deny
+- Allow/Deny
+- Inbound/Outbound
 
-Inbound/Outbound
+#### Priority
 
-Priority
-
-Lower number = higher priority
+- Lower number = higher priority (100 is read first and approved, 4000 is overlooked)
 
 ---
 
@@ -241,13 +280,13 @@ Much easier.
 
 Overrides Azure routing.
 
-Use when traffic must pass through:
+#### ✅ Use when traffic must pass through:
 
-Firewall
+- Firewall
 
-NVA
+- NVA
 
-VPN appliance
+- VPN appliance
 
 ---
 
@@ -260,6 +299,16 @@ Traffic stays inside Azure.
 Storage account still has public endpoint.
 
 Good but older solution.
+
+#### ⚠️ Common Exam Confusion
+
+Service Endpoint
+✔ Public endpoint
+✔ Traffic stays on Microsoft backbone
+
+Private Endpoint
+✔ Private IP inside your VNet
+✔ No public endpoint exposure
 
 ---
 
@@ -291,17 +340,21 @@ No VPN required.
 
 ### VPN Gateway
 
-Encrypted tunnel
+- Encrypted tunnel
+- Internet
+- Connects
 
-Internet
-
-Connects
-
-On-prem ↔ Azure
+On-prem ↔ Azure 
 
 or
 
 VNet ↔ VNet
+
+#### ✅ Common Exam Question-
+
+- Site to Site - on prem Vnet to Cloud Vnet
+- Point to Site - on prem endpoint to Cloud Vnet
+- Traffic enters through Azure Backbone.
 
 ---
 
@@ -325,21 +378,28 @@ Managed Layer 3-7 firewall.
 
 Centralized.
 
-Supports:
+#### Supports:
 
-FQDN filtering
+- FQDN filtering
 
-Application rules
+- Application rules
 
-Network rules
+- Network rules
 
-DNAT
+- DNAT
+
+#### ✅ Choose When:
+
+✔ Central firewall
+✔ Many VNets
+✔ Network inspection
+✔ DNAT
 
 ---
 
 ### Bastion
 
--Secure RDP/SSH.
+-Secure browser based RDP/SSH.
 
 -No Public IP required.
 
@@ -349,7 +409,7 @@ DNAT
 
 -Access through Azure Portal
 
--Very common exam answer
+#### ✅ Very common exam answer
 
 ---
 
@@ -369,61 +429,83 @@ Public
 
 No URL routing.
 
+#### ✅Don't confuse:
+
+Load Balancer
+✔ Layer 4
+✔ TCP/UDP
+
+Application Gateway
+✔ Layer 7
+✔ HTTP/HTTPS
+✔ URL Routing
+✔ WAF
+
 ---
 
 ### Application Gateway
 
-Layer 7
+- Layer 7
+- HTTP/HTTPS
 
-HTTP/HTTPS
+#### Supports:
 
-Supports:
+- SSL termination
+- Cookie affinity
+- URL routing
+- WAF
 
-SSL termination
+#### ✅ Choose when:
 
-Cookie affinity
-
-URL routing
-
-WAF
+✔ HTTP/HTTPS
+✔ URL routing
+✔ WAF
+✔ SSL termination
 
 ---
 
 ### Traffic Manager
 
-DNS based.
+- DNS based.
+- Routes users to different regions.
 
-Routes users to different regions.
+#### Methods:
 
-Methods:
+- Priority
+- Weighted
+- Performance
+- Geographic
 
-Priority
+#### ✅ Choose when:
 
-Weighted
-
-Performance
-
-Geographic
+✔ Multiple Azure regions
+✔ DNS routing
 
 ---
 
 ### Front Door
 
-Global Layer 7.
+- Global Layer 7.
+- Entry point for web apps.
 
-Entry point for web apps.
+#### Supports:
 
-Supports
+- WAF
+- SSL
+- Caching
+- Acceleration
+- Global load balancing.
 
-WAF
+---
+### Simple Comparison - Load Balancing
 
-SSL
+| Service             | Layer | Scope    |
+| ------------------- | ----- | -------- |
+| Load Balancer       | L4    | Regional |
+| Application Gateway | L7    | Regional |
+| Front Door          | L7    | Global   |
+| Traffic Manager     | DNS   | Global   |
 
-Caching
-
-Acceleration
-
-Global load balancing.
 
 ---
 
@@ -512,20 +594,25 @@ Devices
 ### Managed Identity
 
 Azure automatically manages credentials.
-
+```
 VM
-
 ↓
-
 Access Storage
-
 ↓
-
 No passwords.
+```
 
-System Assigned
+#### ⚠️ Common exam question:
 
-User Assigned
+#### System Assigned -
+
+• One identity per resource
+• Deleted with resource (linked lifecycle)
+
+#### User Assigned -
+
+• Standalone identity
+• Can be shared (one identity many resources and vice versa)
 
 ---
 
@@ -585,11 +672,21 @@ Ideal for web apps.
 
 Protect VMs inside one datacenter.
 
-Fault Domains
+- Fault Domains - max 3  - unplanned downtime - disaster - failure.
 
-Update Domains
+- Update Domains - max 20 - planned downtime - updates - upgrades.
 
 Protect against maintenance and hardware failure.
+
+#### ✅ Common Question - 
+
+- Update happens 1 domain at a time. 
+- Resources are split evenly.
+
+#### Example:
+
+- 20 vms split as 5 each on 4 update domains.
+- at a given time, max 5 VMs are down.
 
 ---
 
@@ -605,11 +702,19 @@ Recommended for production.
 
 ### Managed Disks
 
-Azure manages storage.
+- Azure-managed virtual hard disks
+- Azure manages storage.
+- Recommended. (least amount of admin work)
+- No storage account management.
 
-Recommended.
 
-No storage account management.
+#### ✅ Recommended by Microsoft
+
+Benefits
+
+- Simpler management
+- Better scalability
+- Higher availability
 
 ---
 
@@ -645,19 +750,24 @@ Configure VM
 
 ### Azure Backup
 
-Managed backup.
+-Managed backup.
+-Recovery Services Vault.
 
-Recovery Services Vault.
+#### Supports
 
-Supports
+-VMs
+-SQL
+-Files
+-Policies
 
-VMs
 
-SQL
+### 🔑 Keywords:
 
-Files
-
-Policies
+- Recovery Services Vault
+- Backup Policy
+- Restore Point
+- Vault
+- Retention
 
 ---
 
@@ -681,55 +791,65 @@ Business Continuity.
 
 Enforces compliance.
 
-Example
+#### Example:
 
-Only East US
+- Only East US
+- Require tags
+- Require encryption
 
-Require tags
+#### ✅ Exam Focus:
 
-Require encryption
+#### Can:
 
-Can deny deployments.
+- Audit
+- Deny
+- Modify
+- DeployIfNotExists
 
 ---
 
 ### Locks
 
-Delete lock
+#### Delete lock
 
-Cannot delete.
+- Cannot delete.
+- Can modify.
+- Can move in
 
-Can modify.
+#### Read-only
 
-Read-only
+- Cannot modify.
+- Cannot delete.
+- Cannot move.
 
-Cannot modify.
+#### ✅ Exam favorite.
 
-Cannot delete.
-
-Exam favorite.
+- Locks override RBAC permissions.
+- Get inherited.
+- Cannot be applied to Management groups.
 
 ---
 
 ### Tags
 
-Metadata.
+- Metadata.
 
-Examples
+#### Examples
 
-Environment=Prod
+- Environment=Prod
+- Owner=IT
+- Department=Finance
 
-Owner=IT
+#### Useful for:
 
-Department=Finance
+- Billing
+- Automation
+- Organization
 
-Useful for
+#### ✅ Exam favorite.
 
-Billing
-
-Automation
-
-Organization
+- NOT inherited.
+- Cannot be applied to Management groups.
 
 ---
 
@@ -845,9 +965,11 @@ Many Alerts.
 
 ### Azure Advisor
 
-Recommendations.
+Recommendations only.
 
-Five pillars
+Does not automatically fix resources.
+
+#### Five pillars:
 
 - Cost
 
@@ -863,44 +985,98 @@ Five pillars
 
 ### Service Health
 
-Shows Azure outages.
+- Shows Azure outages.
 
-Planned maintenance.
+- Planned maintenance.
 
-Health advisories.
+- Health advisories.
 
-Personalized for YOUR resources.
+- Personalized for YOUR resources.
 
 ---
 
-## ⭐ Final AZ-104 Memory Nuggets
+## AZ-104 Decision Tree:
 
-* **RBAC = Who**
-* **Policy = What is allowed**
-* **Locks = Protect resources**
-* **NSG = Filter traffic**
-* **ASG = Group VMs**
-* **UDR = Change routing**
-* **Service Endpoint = Public endpoint over Azure backbone**
-* **Private Endpoint = Private IP**
-* **Load Balancer = L4**
-* **Application Gateway = L7**
-* **Traffic Manager = DNS routing**
-* **Front Door = Global HTTP(S) entry point**
-* **VPN = Internet**
-* **ExpressRoute = Private circuit**
-* **Blob = Objects**
-* **Files = SMB/NFS shares**
-* **Queue = Messages**
-* **Table = NoSQL**
-* **VMSS = Scale automatically**
-* **Availability Set = Protect within one datacenter**
-* **Availability Zone = Separate datacenters**
-* **Backup = Recovery**
-* **Site Recovery = Disaster recovery**
-* **Monitor = Metrics + Logs**
-* **Advisor = Recommendations**
-* **Service Health = Azure outages**
+- Need authentication?
+#### → Entra ID
+
+- Need permissions?
+#### → RBAC
+
+- Need compliance?
+#### → Policy
+
+- Need protection?
+#### → Locks
+
+- Need VM scaling?
+#### → VMSS
+
+- Need backup?
+#### → Recovery Services Vault
+
+- Need DR?
+#### → Site Recovery
+
+- Need HTTP load balancing?
+#### → Application Gateway
+
+- Need TCP balancing?
+#### → Load Balancer
+
+- Need Global HTTP?
+#### → Front Door
+
+- Need Global DNS routing?
+#### → Traffic Manager
+
+- Need Private Azure service?
+#### → Private Endpoint
+
+- Need Azure backbone only?
+#### → Service Endpoint
+
+- Need storage lifecycle?
+#### → Blob Storage
+
+- Need SMB shares?
+#### → Azure Files
+
+- Need messaging?
+#### → Queue
+
+- Need NoSQL?
+#### → Table
+
+
+##  AZ-104 Memory Nuggets
+
+* **RBAC** = Who
+* **Policy** = What is allowed
+* **Lock**s = Protect resources
+* **NSG** = Filter traffic
+* **ASG** = Group VMs
+* **UDR** = Change routing
+* **Service Endpoint** = Public endpoint over Azure backbone
+* **Private Endpoint** = Private IP
+* **Load Balancer** = L4
+* **Application Gateway** = L7
+* **Traffic Manager** = DNS routing
+* **Front Door** = Global HTTP(S) entry point
+* **VPN** = Internet
+* **ExpressRoute** = Private circuit
+* **Blob** = Objects
+* **Files** = SMB/NFS shares
+* **Queue** = Messages
+* **Table** = NoSQL
+* **VMSS** = Scale automatically
+* **Availability Set** = Protect within one datacenter
+* **Availability Zone** = Separate datacenters
+* **Backup** = Recovery
+* **Site Recovery** = Disaster recovery
+* **Monitor** = Metrics + Logs
+* **Advisor** = Recommendations
+* **Service Health** = Azure outages
 
 If you can explain each of these concepts in one or two sentences without looking at your notes, you're in a strong position for AZ-104.
 
