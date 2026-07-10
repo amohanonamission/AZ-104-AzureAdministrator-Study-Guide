@@ -1,4 +1,4 @@
-## Resources I used for my preparation.
+# Resources
 
 These are the primary resources I used while preparing for the Microsoft Azure Administrator (AZ-104) certification. Every resource below contributed to my understanding in a different way, and together they provided a solid preparation strategy.
 
