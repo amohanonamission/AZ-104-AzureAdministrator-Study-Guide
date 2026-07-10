@@ -1,7 +1,6 @@
 # **AZ-104 PRACTICE QUESTIONS**
 
 This section contains a curated set of **100 practice questions** designed to simulate the style, scope, and difficulty of the **Azure Administrator Associate** exam.
->I personally used these questions to quiz myself, however my main source of practice was the Udemy courses linked [here](../docs/Resources.md)
 
 These questions focus on:
 
@@ -11,6 +10,7 @@ These questions focus on:
 
 The goal is not just memorization, but **reinforcing understanding**, which is key to passing Microsoft AZ-104 exam.
 
+>I personally used these questions to quiz myself, however my main source of practice was the Udemy courses linked [here](../docs/Resources.md)
 ---
 
 ## How to Use
