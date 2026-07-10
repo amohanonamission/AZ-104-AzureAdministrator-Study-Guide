@@ -727,9 +727,7 @@ C. Resolve DNS names
 
 D. Encrypt traffic
 
-Q56
-
-Which Azure feature allows Azure resources to privately access an Azure PaaS service while using the service's public endpoint?
+(Q56). Which Azure feature allows Azure resources in a VNet to securely access an Azure PaaS service over the Azure backbone while the service continues to use its public endpoint?
 
 A. Private Endpoint
 
@@ -909,9 +907,7 @@ C. ASG
 
 D. Route Table
 
-Q71
-
-Which Azure service can filter traffic using fully qualified domain names (FQDNs) and application rules?
+(Q71). Which Azure service provides centralized, stateful network filtering for traffic between Azure virtual networks, on-premises networks, and the Internet?
 
 A. NSG
 
@@ -978,6 +974,315 @@ D. VPN Gateway
 
 ### Section 4 - Compute, Monitoring & Recovery (76–100)
 
+```
+Q76
+
+Which Azure compute service automatically increases or decreases the number of virtual machines based on demand?
+
+A. Availability Set
+
+B. Virtual Machine Scale Set (VMSS)
+
+C. Availability Zone
+
+D. Azure Backup
+
+Q77
+
+What is the primary purpose of an Availability Set?
+
+A. Backup VMs
+
+B. Protect VMs from hardware and planned maintenance failures
+
+C. Increase storage performance
+
+D. Encrypt virtual machines
+
+Q78
+
+Availability Zones protect Azure resources against:
+
+A. User errors
+
+B. Datacenter failures within a region
+
+C. Subscription deletion
+
+D. Malware attacks
+
+Q79
+
+Which Azure disk type provides the highest performance for production workloads?
+
+A. Standard HDD
+
+B. Standard SSD
+
+C. Premium SSD
+
+D. Blob Storage
+
+Q80
+
+Which Azure feature allows you to automatically install software or configure a virtual machine after deployment?
+
+A. Azure Policy
+
+B. VM Extension
+
+C. Azure Monitor
+
+D. Azure Backup
+
+Q81
+
+Which VM extension is commonly used to execute PowerShell or Bash scripts after deployment?
+
+A. Azure Monitor Agent
+
+B. Custom Script Extension
+
+C. Dependency Agent
+
+D. DSC Extension
+
+Q82
+
+You need to protect Azure virtual machines against accidental deletion and regional outages.
+
+Which service should you configure first?
+
+A. Azure Site Recovery
+
+B. Azure Backup
+
+C. Azure Monitor
+
+D. Log Analytics
+
+Q83
+
+Azure Backup stores recovery points inside a:
+
+A. Recovery Services Vault
+
+B. Storage Account
+
+C. Resource Group
+
+D. Managed Disk
+
+Q84
+
+Azure Site Recovery is primarily used for:
+
+A. Monitoring
+
+B. Disaster recovery
+
+C. Identity synchronization
+
+D. Cost optimization
+
+Q85
+
+Which Azure service continuously replicates virtual machines to another Azure region?
+
+A. Azure Backup
+
+B. Azure Site Recovery
+
+C. Azure Monitor
+
+D. Azure Advisor
+
+Q86
+
+Which Azure service collects metrics and logs from Azure resources?
+
+A. Azure Advisor
+
+B. Azure Monitor
+
+C. Azure Policy
+
+D. Azure Backup
+
+Q87
+
+Where are Azure Monitor logs typically stored for querying?
+
+A. Blob Storage
+
+B. Log Analytics Workspace
+
+C. Azure SQL Database
+
+D. Recovery Services Vault
+
+Q88
+
+Which Kusto Query Language (KQL)-enabled service allows you to analyze Azure logs?
+
+A. Azure Monitor
+
+B. Log Analytics
+
+C. Service Health
+
+D. Advisor
+
+Q89
+
+Which Azure feature sends notifications when specific conditions are met?
+
+A. Azure Advisor
+
+B. Alerts
+
+C. Tags
+
+D. Azure Firewall
+
+Q90
+
+What is an Action Group used for?
+
+A. Group virtual machines
+
+B. Define notification actions for alerts
+
+C. Assign RBAC permissions
+
+D. Create Resource Groups
+
+Q91
+
+Which Azure service provides personalized recommendations to improve performance, reliability, security, and cost?
+
+A. Service Health
+
+B. Azure Advisor
+
+C. Azure Policy
+
+D. Azure Backup
+
+Q92
+
+Which Azure service informs you about outages affecting Azure services in your region?
+
+A. Azure Monitor
+
+B. Azure Advisor
+
+C. Service Health
+
+D. Log Analytics
+
+Q93
+
+Which Azure service helps monitor the health and performance of applications?
+
+A. Azure Backup
+
+B. Application Insights
+
+C. Azure Firewall
+
+D. Recovery Services Vault
+
+Q94
+
+A virtual machine unexpectedly becomes unavailable because the physical host fails.
+
+Which Azure feature minimizes downtime in this scenario?
+
+A. Availability Set
+
+B. Azure Backup
+
+C. Resource Lock
+
+D. Azure Policy
+
+Q95
+
+Which feature distributes virtual machines across separate physical datacenters within a region?
+
+A. Availability Zones
+
+B. Availability Sets
+
+C. VM Extensions
+
+D. Resource Groups
+
+Q96
+
+Which Azure monitoring data type records numerical performance values over time?
+
+A. Logs
+
+B. Metrics
+
+C. Alerts
+
+D. Events
+
+Q97
+
+Which Azure service should you use to restore a deleted Azure virtual machine?
+
+A. Azure Site Recovery
+
+B. Azure Backup
+
+C. Azure Monitor
+
+D. Azure Advisor
+
+Q98
+
+You need to receive an email whenever CPU utilization exceeds 80% on a virtual machine.
+
+What should you configure?
+
+A. Azure Advisor
+
+B. Azure Monitor Alert with an Action Group
+
+C. Azure Policy
+
+D. Service Health
+
+Q99
+
+Which Azure service allows disaster recovery from an on-premises VMware environment to Azure?
+
+A. Azure Backup
+
+B. Azure Site Recovery
+
+C. Azure Files
+
+D. Azure Monitor
+
+Q100
+
+A company wants both automated backups and the ability to fail over workloads to another Azure region.
+
+Which two Azure services should be implemented?
+
+A. Azure Monitor + Advisor
+
+B. Azure Backup + Azure Site Recovery
+
+C. Azure Policy + Azure Monitor
+
+D. VM Extensions + Availability Sets
+```
 
 ---
 
@@ -1030,6 +1335,19 @@ D. VPN Gateway
 ### Section 4 - Compute, Monitoring & Recovery (76–100)
 
 
+
+| Q  | Ans | Q  | Ans | Q  | Ans | Q  | Ans |   |
+| -- | --- | -- | --- | -- | --- | -- | --- | - |
+| **76** | B   | **82** | B   | **88** | B   | **94** | A   |   |
+| **77** | B   | **83** | A   | **89** | B   | **95** | A   |   |
+| **78** | B   | **84** | B   | **90** | B   | **96** | B   |   |
+| **79** | C   | **85** | B   | **91** | B   | **97** | B   |   |
+| **80** | B   | **86** | B   | **92** | C   | **98** | B   |   |
+| **81** | B   | **87** | B   | **93** | B   | **99** | B   |   |
+|    |     |    |     |    |     |    | **100** | B |
+
+
+---
 
 
 ## Future Work and Improvements - 
@@ -1115,3 +1433,116 @@ Ultra Disk
 These appear on AZ-104 more often than people expect.
 
 ---
+
+If you ever expand this to 150–200 questions, I'd include these networking topics because they appear in AZ-104 more often than many people realize:
+
+Azure DNS
+
+Forward lookup zones
+
+Reverse lookup
+
+Alias records
+
+Private DNS linking
+
+Effective Security Rules
+
+Microsoft loves asking:
+
+Which NSG rule is actually applied?
+
+Effective Routes
+
+Very common.
+
+Given
+
+System Route
+
+UDR
+
+BGP
+
+Which route wins?
+
+Route Priority
+
+Longest Prefix Match
+
+User Defined
+
+BGP
+
+System
+
+This catches many candidates.
+
+Accelerated Networking
+
+Appears occasionally.
+
+IP Addressing
+
+Static
+
+Dynamic
+
+Reserved IPs
+
+Private/Public
+
+Gateway Transit
+
+Used with VNet Peering.
+
+Surprisingly common.
+
+---
+
+Things I'd Add (Optional)
+
+If you ever expand this repository to 150–200 questions, I'd include more questions on:
+
+Managed Disks
+Disk encryption
+Snapshots
+Disk types
+Shared disks
+Azure Compute Gallery
+
+Formerly Shared Image Gallery.
+
+Frequently appears.
+
+Run Command
+
+Microsoft likes asking:
+
+Run Command
+
+vs
+
+Custom Script Extension
+
+Boot Diagnostics
+
+Surprisingly common.
+
+Serial Console
+
+VM troubleshooting.
+
+Resource Health
+
+Different from Service Health.
+
+Common confusion.
+
+Azure Monitor Agent (AMA)
+
+Replacing Log Analytics Agent.
+
+Recovery Services Vault vs Backup Vault
+
+Worth one question if updating for newer Azure features.
