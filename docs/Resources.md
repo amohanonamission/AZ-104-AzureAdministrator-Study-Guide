@@ -24,7 +24,7 @@
 
 ### 5. AI-Assisted Learning
 
-I regularly used AI to:
+**I regularly used AI to:**
 
 - Explain difficult concepts
 - Compare Azure services
@@ -32,6 +32,14 @@ I regularly used AI to:
 - Generate additional practice questions
 - Create real-world scenarios
 - Reinforce weak topics
+
+### 6. Notable Mentions
+
+While doing daily chores I would search for youtube videos related to AZ-104 and play it in the background. Some channels who helped me are-
+
+- [The Tech BlackBoard ](https://www.youtube.com/playlist?list=PL0AYtrUw-NRQVyeXD5_hpb4I0ZWokMFF-). Good for exam strategy, and practice questions.
+- [Tech with Jaspal](https://www.youtube.com/playlist?list=PLL1ih-rtU13viciDOwQXwgKtUhNyg32ZE). Good reviews. Limited personal exposure.
+
 
 ---
 
