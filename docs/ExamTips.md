@@ -1,5 +1,12 @@
 ExamTips.md
 
+- Take your time with this material
+- This exam expects you to be a sys admin, and know all the functionalities of Azure cloud platform. 
+- So the syllabus is mile wide, which could be a pain
+- Learn to talk Azure, once the vocabulary in your head is set
+- Try to create a mental picture and learn the how, what, why. Which also equates to governance, management, and administration.
+-
+
 I'd include things most people learn the hard way:
 
 Before the Exam
