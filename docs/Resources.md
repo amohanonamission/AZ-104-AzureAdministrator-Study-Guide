@@ -1,4 +1,4 @@
-## Resources I Used
+# Resources I used for my preparation.
 
 ### 1. Video Course
 
@@ -9,6 +9,7 @@
 
 - Microsoft Learn [Course](https://learn.microsoft.com/en-us/training/courses/az-104t00)
 - Microsoft Azure [Documentation](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/)
+- Take your time with this material
 
 ### 3. Practice Exams
 
