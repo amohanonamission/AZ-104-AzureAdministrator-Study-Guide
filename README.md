@@ -2,7 +2,7 @@
 
 A practical roadmap to prepare for the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification through self-study, hands-on labs, practice exams, and real Azure experience.
 
-> 🚧 This repository is actively being expanded. More practice questions, labs, notes, and examples will be added over time.
+> 🚧 This repository is actively being expanded. More practice questions, labs, notes, and examples will be added shortly.
 ---
 
 ## About This Repository
