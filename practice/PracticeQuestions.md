@@ -10,7 +10,7 @@ These questions focus on:
 
 The goal is not just memorization, but **reinforcing understanding**, which is key to passing Microsoft AZ-104 exam.
 
->I personally used these questions to quiz myself, however my main source of practice was the Udemy courses linked [here](../docs/Resources.md)
+>Note: I personally used such questions to quiz myself, however my main source of practice was the Udemy courses linked [here](../docs/Resources.md)
 ---
 
 ## How to Use
