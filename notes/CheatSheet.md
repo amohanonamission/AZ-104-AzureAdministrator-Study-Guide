@@ -1,3 +1,7 @@
+# Cheat Sheet
+
+This cheat sheet is made as a quick reference to read before the exam. I have tried to include sufficient information as bullet points here to help understand how each service and function is different from the other and to serve as memory / logical points which can help you pick the right option / eliminate choices in the exam based on the described scenario in the questions.  
+
 ## ☁️ STORAGE
 
 ### Blob Storage
@@ -805,7 +809,7 @@ Usually connected to Monitor.
 
 Notify when condition met.
 
-Examples
+Examples:
 
 CPU > 80%
 
@@ -841,15 +845,15 @@ Recommendations.
 
 Five pillars
 
-Cost
+- Cost
 
-Security
+- Security
 
-Reliability
+- Reliability
 
-Performance
+- Performance
 
-Operational Excellence
+- Operational Excellence
 
 ---
 
