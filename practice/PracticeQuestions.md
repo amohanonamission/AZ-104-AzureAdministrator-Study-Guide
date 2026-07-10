@@ -12,20 +12,22 @@ The goal is not just memorization, but **reinforcing understanding**, which is k
 
 ---
 
-> Questions are formed with the help of ChatGPT. Once you go through these, you can paste these into a prompt and ask any LLM to generate more of them.
-
-## Sample Prompts
-
-
-
----
-
 ## How to Use
 
 - Attempt questions without looking at answers first  
 - Review explanations carefully  
 - Identify weak areas and revise those topics  
 - Repeat until you can confidently recognize patterns  
+
+## Disclaimer
+
+- Questions are formed with the help of ChatGPT. Once you go through these, you can paste these into a prompt and ask any LLM to generate more of them.
+- These questions do not represent the real exam questions. However, I have tried to cover each topic to reinforce the knowledge to the best of my ability.
+- In the real exam there will be a combination of these questions in a situation involving multiple domains. And you should expect multiple sub-questions for a given scenario.
+- The best would be to get the exam series from Udemy mentioned [here](../docs/Resources.md)
+
+---
+
 
 **Answer key is at the end.**
 
@@ -36,9 +38,7 @@ Read slowly. Treat each one like an exam moment. Do deep research on any questio
 ### Identity & Governance (1–25)
 
 ```
-Q1
-
-You need to grant a user permission to manage virtual machines in a resource group without allowing access to other resource groups.
+(Q1.) You need to grant a user permission to manage virtual machines in a resource group without allowing access to other resource groups.
 
 What should you assign?
 
@@ -50,9 +50,8 @@ C. Azure RBAC role at the resource group scope
 
 D. Management Group role
 
-Q2
 
-Which Azure RBAC role provides full management access to resources while allowing the user to assign roles to others?
+(Q2.) Which Azure RBAC role provides full management access to resources while allowing the user to assign roles to others?
 
 A. Contributor
 
@@ -62,9 +61,8 @@ C. Owner
 
 D. User Access Administrator
 
-Q3
 
-Which Azure RBAC role allows a user to manage access to Azure resources without allowing them to modify the resources themselves?
+(Q3.) Which Azure RBAC role allows a user to manage access to Azure resources without allowing them to modify the resources themselves?
 
 A. Owner
 
@@ -74,9 +72,8 @@ C. User Access Administrator
 
 D. Contributor
 
-Q4
 
-A user needs permission to view all resources in a subscription but must not make any changes.
+(Q4.) A user needs permission to view all resources in a subscription but must not make any changes.
 
 Which role should you assign?
 
