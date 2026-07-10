@@ -1,4 +1,4 @@
-# **AZ-104 PRACTICE QUESTIONS**
+# **AZ-104 - PRACTICE QUESTIONS**
 
 This section contains a curated set of **100 practice questions** designed to simulate the style, scope, and difficulty of the **Azure Administrator Associate** exam.
 
