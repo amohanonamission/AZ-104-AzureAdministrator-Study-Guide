@@ -45,6 +45,5 @@
 
 ---
 
-Learn. Unlearn. Relearn. Repeat.  | |  
-Deploy. Break. Delete. Rebuild. Repeat.
+> Learn. Unlearn. Relearn. Repeat.  | |  Deploy. Break. Delete. Rebuild. Repeat.
 ---
