@@ -49,13 +49,13 @@ This repository documents the study strategy that worked for me and serves as a 
 
 [📝 Practice Questions](../practice/PracticeQuestions.md)
 
-[🧠 Exam Day Prep](../notes/ExamDayChecklist.md)
+[✅ Exam Tips](../docs/ExamTips.md)
 
 [🧪 Hands-on Labs](../practice/PracticeQuestions.md)
 
 [💡 Resources](../docs/Resources.md)
 
-[✅ Exam Tips](../docs/ExamTips.md)
+[🧠 Exam Day Revision](../notes/ExamDayChecklist.md)
 
 ## Resources I Used
 
