@@ -1047,9 +1047,7 @@ C. Dependency Agent
 
 D. DSC Extension
 
-Q82
-
-You need to protect Azure virtual machines against accidental deletion and regional outages.
+(Q82). You need to create scheduled backups of Azure virtual machines so they can be restored after accidental deletion or corruption.
 
 Which service should you configure first?
 
