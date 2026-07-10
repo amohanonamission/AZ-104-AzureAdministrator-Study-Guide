@@ -1,4 +1,4 @@
-# Azure Administrator Associate -Study Guide (AZ-104)
+# Azure Administrator Associate - Study Guide (AZ-104)
 
 A practical roadmap to prepare for the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification through self-study, hands-on labs, practice exams, and real Azure experience.
 
@@ -39,7 +39,25 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ---
 
+## Repository Contents
+
+📘 Study Guide
+
+📖 Cheat Sheets
+
+📝 Practice Questions
+
+🧠 Common Exam Traps
+
+🧪 Hands-on Labs
+
+💡 Resources
+
+✅ Exam Tips
+
 ## Resources I Used
+
+---
 
 ### Video Course
 
