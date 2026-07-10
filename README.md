@@ -15,15 +15,6 @@ I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, and
 
 This repository documents the study strategy that worked for me and serves as a reference for anyone preparing for the certification.
 
-## Who is this repository for?
-
-This repository is intended for:
-
-- Students preparing for AZ-104
-- IT professionals transitioning into Azure
-- Anyone who prefers hands-on learning over memorization
-- Candidates looking for concise notes, practice questions, and revision material
-
 ---
 
 ## Exam Results
@@ -71,8 +62,6 @@ This repository is intended for:
 - Hybrid Identity
 - Privileged Identity Management (PIM)
 
----
-
 ### Compute
 
 - Virtual Machines
@@ -83,8 +72,6 @@ This repository is intended for:
 - VM Extensions
 - Azure Backup
 - Azure Site Recovery
-
----
 
 ### Storage
 
@@ -97,8 +84,6 @@ This repository is intended for:
 - Lifecycle Management
 - Shared Access Signatures (SAS)
 - Stored Access Policies
-
----
 
 ### Networking
 
@@ -120,8 +105,6 @@ This repository is intended for:
 - Traffic Manager
 - NAT Gateway
 
----
-
 ### Governance
 
 - Azure Policy
@@ -132,8 +115,6 @@ This repository is intended for:
 - ARM Templates
 - Azure Resource Manager
 - Powershell CMDLets
-
----
 
 ### Monitoring
 
