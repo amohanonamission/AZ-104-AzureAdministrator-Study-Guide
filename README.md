@@ -156,9 +156,9 @@ If you're completely new to Azure, or IT in general consider extending your prep
 
 ## Final Thought
 
-> **REMEMBER:** CLOUD ISN'T ABOUT MEMORIZING SERVICES. IT'S ABOUT UNDERSTANDING ARCHITECTURE, FINDING THE RIGHT SOLUTIONS, SECURING RESOURCES, AUTOMATING REPETITIVE TASKS, AND CONTINUALLY LEARNING AS THE PLATFORM EVOLVES.
+**REMEMBER:** Cloud isn't about memorizing services. It's about understanding architecture, finding the right solutions, securing resources, automating repetitive tasks, and continually learning as the platforms evolve.
 
-**GOOD LUCK ON YOUR AZURE JOURNEY! ☁️**
+> **GOOD LUCK ON YOUR AZURE JOURNEY! ☁️**
 
 
 ---
