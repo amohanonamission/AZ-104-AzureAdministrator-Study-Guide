@@ -9,6 +9,14 @@
 - Use practice exams to practice focus and time management, and get a real feel of the exam.
 - Track your weak areas in a notes file for daily revision.
 
+Instead of relying on memorization, I focused on understanding:
+
+- Why Azure services exist
+- How Azure services interact
+- When each service should be used
+- Microsoft's recommended and best use administrative practices
+- Real-world application and projects creation
+
 ## Resources I Used
 
 ### 1. Video Course
