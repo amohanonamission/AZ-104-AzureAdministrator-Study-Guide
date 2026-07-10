@@ -33,9 +33,9 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ## Repository Contents
 
-[📘 Study Guide  –> My preparation strategy and study roadmap](../docs/StudyGuide.md)
+[📘 Study Guide  –>](../docs/StudyGuide.md)  My preparation strategy and study roadmap
 
-[📖 Cheat Sheet  –> Quick revision notes for all AZ-104 domains](../notes/CheatSheet.md)
+[📖 Cheat Sheet  –>](../notes/CheatSheet.md)  Quick revision notes for all AZ-104 domains
 
 [📝 Practice Questions  –> 100 practice questions with answer keys](../practice/PracticeQuestions.md)
 
