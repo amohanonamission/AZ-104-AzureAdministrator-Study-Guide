@@ -7,13 +7,22 @@ A practical roadmap to prepare for the **Microsoft Certified: Azure Administrato
 ## About This Repository
 I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, and documented my journey as I progressed. I followed this structured plan:
 
-- Watched John Savill's playlist videos and study cram.
-- Used MS Learn and free material for deeper understanding.
+- Watched the complete John Savill's playlist videos and study cram.
+- Used Microsoft Learn and other free resources to reinforce concepts.
 - Solved 12 Udemy practice exams including 1000+ questions.
-- Simulated theory and exam scenarios in labs using multiple Azure free trial.
-- Used AI to quiz myself, compare services, and review incorrect answers.
+- Simulated theory and exam scenarios in labs using multiple Azure free trial subscriptions.
+- Used AI to explain concepts, compare Azure services, quiz, and review incorrect answers.
 
 This repository documents the study strategy that worked for me and serves as a reference for anyone preparing for the certification.
+
+## Who is this repository for?
+
+This repository is intended for:
+
+- Students preparing for AZ-104
+- IT professionals transitioning into Azure
+- Anyone who prefers hands-on learning over memorization
+- Candidates looking for concise notes, practice questions, and revision material
 
 ---
 
@@ -33,19 +42,19 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ## Repository Contents
 
-[📘 Study Guide](../docs/StudyGuide.md)
+[📘 Study Guide – My preparation strategy and study roadmap](../docs/StudyGuide.md)
 
-[📖 Cheat Sheet](../notes/CheatSheet.md)
+[📖 Cheat Sheet – Quick revision notes for all AZ-104 domains](../notes/CheatSheet.md)
 
-[📝 Practice Questions](../practice/PracticeQuestions.md)
+[📝 Practice Questions – 100 practice questions with answer keys](../practice/PracticeQuestions.md)
 
-[✅ Exam Tips](../docs/ExamTips.md)
+[✅ Exam Tips – Preparation advice and exam-day strategies](../docs/ExamTips.md)
 
-[🧪 Hands-on Labs](../practice/PracticeQuestions.md)
+[🧪 Hands-on Labs – Azure Portal exercises to reinforce concepts](../practice/PracticeQuestions.md)
 
-[💡 Resources](../docs/Resources.md)
+[💡 Resources – Videos, Microsoft Learn, practice exams, and useful links](../docs/Resources.md)
 
-[🧠 Final Revision](../notes/ExamDayChecklist.md)
+[🧠 Final Revision – Final day checklist before taking the exam](../notes/ExamDayChecklist.md)
 
 
 ---
@@ -122,6 +131,7 @@ This repository documents the study strategy that worked for me and serves as a 
 - Management Groups
 - ARM Templates
 - Azure Resource Manager
+- Powershell CMDLets
 
 ---
 
@@ -141,22 +151,22 @@ This repository documents the study strategy that worked for me and serves as a 
 
 This repository reflects **my personal preparation strategy**.
 
-My preparation included:
+My preparation took 6 weeks because I already had:
 
 - A cybersecurity degree
 - Previous cybersecurity and compliance experience
+- Security+ and AZ-900
 - Daily hands-on Azure practice
-- Approximately six weeks of focused study
-- Taking Security+ and AZ-900 prior to this (Pass)
 
-If you're completely new to Azure, or IT in general consider extending your preparation timeline and spending additional time working through Microsoft Learn modules and hands-on labs before scheduling the exam.
+
+If you're new to Azure or IT, consider extending your preparation timeline and spending additional time working through Microsoft Learn modules and hands-on labs before scheduling the exam.
 
 ---
 
 
 ## Final Thought
 
-**REMEMBER:** Cloud isn't about memorizing services. It's about understanding architecture, making informed decisions, automating repetitive tasks, and continually learning as the platforms evolve.
+**REMEMBER:** Cloud administration isn't about memorizing services. It's about understanding architecture, choosing the right solution for scenario, automating repetitive tasks, and continually learning as the platforms evolve.
 
 > **GOOD LUCK ON YOUR AZURE JOURNEY! ☁️**
 
