@@ -25,6 +25,8 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ---
 
+
+
 ## My Exam Results
 
 | Certification | Microsoft Certified: Azure Administrator Associate |
@@ -41,19 +43,19 @@ This repository documents the study strategy that worked for me and serves as a 
 
 ## Repository Contents
 
-📘 Study Guide
+[📘 Study Guide](../docs/StudyGuide.md)
 
-📖 Cheat Sheets
+[📖 Cheat Sheet](../notes/CheatSheet.md)
 
-📝 Practice Questions
+[📝 Practice Questions](../practice/PracticeQuestions.md)
 
-🧠 Common Exam Traps
+[🧠 Exam Day Prep](../notes/ExamDayChecklist.md)
 
-🧪 Hands-on Labs
+[🧪 Hands-on Labs](../practice/PracticeQuestions.md)
 
-💡 Resources
+[💡 Resources](../docs/Resources.md)
 
-✅ Exam Tips
+[✅ Exam Tips](../docs/ExamTips.md)
 
 ## Resources I Used
 
