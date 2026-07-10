@@ -341,9 +341,640 @@ D. Azure Backup
 
 ### Section 2 - Storage (26–50)
 
+```
+Q26
+
+You need to store millions of images and videos that will be accessed over HTTPS.
+
+Which Azure storage service should you use?
+
+A. Azure Files
+
+B. Azure Queue Storage
+
+C. Azure Blob Storage
+
+D. Azure Table Storage
+
+Q27
+
+Which Azure storage service provides SMB file shares that can be mounted by Windows and Linux virtual machines?
+
+A. Azure Blob Storage
+
+B. Azure Files
+
+C. Azure Queue Storage
+
+D. Azure Table Storage
+
+Q28
+
+Which Azure storage service is designed to store large amounts of semi-structured NoSQL data?
+
+A. Blob Storage
+
+B. Azure Files
+
+C. Azure Queue Storage
+
+D. Azure Table Storage
+
+Q29
+
+Which Azure storage service is primarily used to decouple application components by storing messages?
+
+A. Blob Storage
+
+B. Queue Storage
+
+C. Azure Files
+
+D. Table Storage
+
+Q30
+
+Which storage redundancy option stores three copies of data within a single Azure datacenter?
+
+A. ZRS
+
+B. GRS
+
+C. LRS
+
+D. RA-GRS
+
+Q31
+
+Which redundancy option replicates data synchronously across multiple Availability Zones in the same region?
+
+A. LRS
+
+B. ZRS
+
+C. GRS
+
+D. RA-GRS
+
+Q32
+
+Which redundancy option provides asynchronous replication to a paired Azure region?
+
+A. LRS
+
+B. ZRS
+
+C. GRS
+
+D. Premium SSD
+
+Q33
+
+Which redundancy option provides read access to the secondary replicated region?
+
+A. LRS
+
+B. ZRS
+
+C. RA-GRS
+
+D. Locally Redundant Storage
+
+Q34
+
+Which storage access tier is intended for data accessed most frequently?
+
+A. Archive
+
+B. Cool
+
+C. Hot
+
+D. Premium
+
+Q35
+
+Which storage tier has the lowest storage cost but the highest retrieval latency?
+
+A. Hot
+
+B. Cool
+
+C. Archive
+
+D. Premium
+
+Q36
+
+A company wants blobs to automatically move to the Cool tier after 30 days and Archive after 180 days.
+
+Which Azure feature should be used?
+
+A. Azure Backup
+
+B. Lifecycle Management
+
+C. Azure Policy
+
+D. Azure Monitor
+
+Q37
+
+You need to provide temporary access to specific blobs without exposing the storage account key.
+
+What should you use?
+
+A. Shared Access Signature (SAS)
+
+B. Azure Policy
+
+C. Resource Lock
+
+D. Azure RBAC
+
+Q38
+
+What is the primary purpose of a Stored Access Policy?
+
+A. Encrypt storage accounts
+
+B. Provides centralized management of service SAS, including expiration and revocation
+
+C. Replicate data
+
+D. Configure storage redundancy
+
+
+Q39
+
+Which authentication method grants the highest level of access to a storage account?
+
+A. SAS Token
+
+B. Storage Account Key
+
+C. Azure AD Group
+
+D. Lifecycle Policy
+
+Q40
+
+Which Azure service can allow transfer of files over the public internet using AzCopy?
+
+A. Azure Backup
+
+B. Azure Files
+
+C. Azure Storage
+
+D. Azure Site Recovery
+
+Q41
+
+You need to migrate several terabytes of data over the internet as quickly as possible.
+
+Which tool should you use?
+
+A. Azure Storage Explorer
+
+B. AzCopy
+
+C. Azure Data Box
+
+D. Azure Backup
+
+Q42
+
+Which Azure service is most appropriate for transferring petabytes of data when network bandwidth is limited?
+
+A. AzCopy
+
+B. Azure Files
+
+C. Azure Data Box
+
+D. Storage Explorer
+
+Q43
+
+Which storage account type supports Azure Blob, Azure Files, Queues, and Tables?
+
+A. BlobStorage
+
+B. FileStorage
+
+C. StorageV2 (General-purpose v2)
+
+D. Premium BlockBlobStorage
+
+Q44
+
+Premium storage is primarily recommended for workloads requiring:
+
+A. Lowest storage cost
+
+B. High IOPS and low latency
+
+C. Archive storage
+
+D. Long-term backup
+
+Q45
+
+A virtual machine uses managed disks.
+
+Who manages the storage account for those disks?
+
+A. Customer
+
+B. Microsoft
+
+C. Microsoft Entra ID
+
+D. Azure Backup
+
+Q46
+
+Which Azure feature provides soft delete protection for Blob Storage?
+
+A. Lifecycle Management
+
+B. Blob Soft Delete
+
+C. Azure Backup
+
+D. Site Recovery
+
+Q47
+
+Which feature allows recovery of previous versions of a blob after it has been modified?
+
+A. Blob Versioning
+
+B. Archive Tier
+
+C. Queue Storage
+
+D. ZRS
+
+Q48
+
+You need to ensure deleted blobs can be recovered for 30 days.
+
+Which feature should you enable?
+
+A. Blob Soft Delete
+
+B. Lifecycle Management
+
+C. Azure Backup
+
+D. Geo-replication
+
+Q49
+
+A company wants users to authenticate to Azure Storage using Microsoft Entra credentials instead of storage account keys whenever possible.
+
+Which authorization method should be recommended?
+
+A. Shared Key authorization
+
+B. Microsoft Entra ID authentication with Azure RBAC
+
+C. SAS Token only
+
+D. Connection String authentication
+
+Q50
+
+A company needs to prevent accidental deletion of a storage account while still allowing administrators to modify its configuration.
+
+Which feature should be used?
+
+A. Read-only Lock
+
+B. Delete Lock
+
+C. Azure Policy
+
+D. Lifecycle Management
+```
 
 ### Section 3 - Networking (51–75)
 
+```
+Q51
+
+You need to allow HTTP traffic from the internet to a virtual machine while blocking all other inbound traffic.
+
+Which Azure resource should you configure?
+
+A. Azure Firewall
+
+B. Network Security Group (NSG)
+
+C. Route Table
+
+D. Traffic Manager
+
+Q52
+
+At which scope can a Network Security Group (NSG) be associated?
+
+A. Resource Group only
+
+B. Virtual Network only
+
+C. Subnet and Network Interface
+
+D. Subscription only
+
+Q53
+
+What is the primary purpose of an Application Security Group (ASG)?
+
+A. Encrypt network traffic
+
+B. Group virtual machines logically for NSG rules
+
+C. Connect virtual networks
+
+D. Provide internet access
+
+Q54
+
+You need to route all outbound internet traffic from a subnet through a network virtual appliance (NVA).
+
+Which Azure feature should you configure?
+
+A. NSG
+
+B. User-Defined Route (UDR)
+
+C. Application Gateway
+
+D. Azure DNS
+
+Q55
+
+What is the primary purpose of a User-Defined Route (UDR)?
+
+A. Filter traffic
+
+B. Customize packet routing
+
+C. Resolve DNS names
+
+D. Encrypt traffic
+
+Q56
+
+Which Azure feature allows Azure resources to privately access an Azure PaaS service while using the service's public endpoint?
+
+A. Private Endpoint
+
+B. Service Endpoint
+
+C. VPN Gateway
+
+D. Azure Bastion
+
+Q57
+
+Which Azure feature assigns a private IP address from your VNet to an Azure PaaS resource?
+
+A. Service Endpoint
+
+B. Private Endpoint
+
+C. Azure Firewall
+
+D. NAT Gateway
+
+Q58
+
+What is one advantage of a Private Endpoint over a Service Endpoint?
+
+A. Lower storage costs
+
+B. Private IP connectivity to the service
+
+C. Automatic backups
+
+D. Public internet access
+
+Q59
+
+You need to connect two Azure virtual networks with low latency over Microsoft's backbone network.
+
+Which feature should you use?
+
+A. VPN Gateway
+
+B. VNet Peering
+
+C. ExpressRoute
+
+D. Azure Firewall
+
+Q60
+
+VNet Peering allows communication between:
+
+A. Two VNets
+
+B. Two Subnets only
+
+C. Two Regions only
+
+D. Two Resource Groups
+
+Q61
+
+Which Azure service provides encrypted connectivity between an on-premises network and Azure over the public internet?
+
+A. ExpressRoute
+
+B. VPN Gateway
+
+C. Azure Bastion
+
+D. NAT Gateway
+
+Q62
+
+Which Azure networking service provides a dedicated private connection from an on-premises datacenter to Azure?
+
+A. VPN Gateway
+
+B. ExpressRoute
+
+C. VNet Peering
+
+D. Service Endpoint
+
+Q63
+
+Which Azure service allows secure RDP and SSH access to virtual machines without exposing public IP addresses?
+
+A. Azure Firewall
+
+B. Azure Bastion
+
+C. VPN Gateway
+
+D. Traffic Manager
+
+Q64
+
+Azure Bastion requires deployment into which dedicated subnet?
+
+A. AzureSubnet
+
+B. BastionSubnet
+
+C. AzureBastionSubnet
+
+D. GatewaySubnet
+
+Q65
+
+Which Azure load balancing solution operates at Layer 4 (TCP/UDP)?
+
+A. Azure Application Gateway
+
+B. Azure Front Door
+
+C. Azure Load Balancer
+
+D. Traffic Manager
+
+Q66
+
+Which Azure service provides Layer 7 load balancing and Web Application Firewall (WAF) support?
+
+A. Azure Firewall
+
+B. Application Gateway
+
+C. Azure Load Balancer
+
+D. NAT Gateway
+
+Q67
+
+Which Azure networking service routes users to the closest endpoint based primarily on DNS routing methods?
+
+A. Azure Front Door
+
+B. Traffic Manager
+
+C. Azure Firewall
+
+D. VPN Gateway
+
+Q68
+
+Which Azure service provides global HTTP/HTTPS load balancing with application acceleration?
+
+A. Azure Front Door
+
+B. Traffic Manager
+
+C. Azure Load Balancer
+
+D. Application Gateway
+
+Q69
+
+What is the primary purpose of an Azure NAT Gateway?
+
+A. Filter inbound traffic
+
+B. Provide outbound internet connectivity for private resources
+
+C. Route traffic between VNets
+
+D. Host virtual machines
+
+Q70
+
+Which Azure networking component provides stateful network filtering across multiple virtual networks?
+
+A. Azure Firewall
+
+B. NSG
+
+C. ASG
+
+D. Route Table
+
+Q71
+
+Which Azure service can filter traffic using fully qualified domain names (FQDNs) and application rules?
+
+A. NSG
+
+B. Azure Firewall
+
+C. Traffic Manager
+
+D. Azure DNS
+
+Q72
+
+Which Azure DNS zone type allows name resolution only within Azure virtual networks?
+
+A. Public DNS Zone
+
+B. Private DNS Zone
+
+C. Azure DNS Resolver
+
+D. Route Table
+
+Q73
+
+A company wants virtual machines in one subnet to communicate with Azure SQL Database without traversing the public internet while keeping the SQL service on its public endpoint.
+
+Which feature should be configured?
+
+A. Private Endpoint
+
+B. Service Endpoint
+
+C. VPN Gateway
+
+D. ExpressRoute
+
+Q74
+
+You need to ensure that inbound HTTPS traffic is inspected by a Web Application Firewall before reaching your web application.
+
+Which Azure service should you deploy?
+
+A. Azure Load Balancer
+
+B. Azure Firewall
+
+C. Application Gateway with WAF
+
+D. Traffic Manager
+
+Q75
+
+A virtual machine in Azure requires outbound internet connectivity but should not have a public IP address.
+
+Which Azure service is the best solution?
+
+A. NAT Gateway
+
+B. Azure Bastion
+
+C. ExpressRoute
+
+D. VPN Gateway
+```
 
 ### Section 4 - Compute, Monitoring & Recovery (76–100)
 
@@ -368,19 +999,119 @@ D. Azure Backup
 
 ### Section 2 - Storage (26–50)
 
+| Q  | Ans | Q  | Ans | Q  | Ans |
+| -- | --- | -- | --- | -- | --- |
+| **26** | C   | **35** | C   | **44** | B   |
+| **27** | B   | **36** | B   | **45** | B   |
+| **28** | D   | **37** | A   | **46** | B   |
+| **29** | B   | **38** | B   | **47** | A   |
+| **30** | C   | **39** | B   | **48** | A   |
+| **31** | B   | **40** | C   | **49** | B   |
+| **32** | C   | **41** | B   | **50** | B   |
+| **33** | C   | **42** | C   |    |     |
+| **34** | C   | **43** | C   |    |     |
 
 
 ### Section 3 - Networking (51–75)
+
+| Q  | Ans | Q  | Ans | Q  | Ans |
+| -- | --- | -- | --- | -- | --- |
+| **51** | B   | **60** | A   | **69** | B   |
+| **52** | C   | **61** | B   | **70** | A   |
+| **53** | B   | **62** | B   | **71** | B   |
+| **54** | B   | **63** | B   | **72** | B   |
+| **55** | B   | **64** | C   | **73** | B   |
+| **56** | B   | **65** | C   | **74** | C   |
+| **57** | B   | **66** | B   | **75** | A   |
+| **58** | B   | **67** | B   |    |     |
+| **59** | B   | **68** | A   |    |     |
 
 
 ### Section 4 - Compute, Monitoring & Recovery (76–100)
 
 
 
-Include:
 
-Scenario-based questions
-Multiple choice
-Case studies
-Answer key
-Explanations
+## Future Work and Improvements - 
+
+I would intentionally make the questions slightly harder than average.
+
+Right now these are around 6.5–7/10 difficulty.
+
+The real AZ-104 has many scenario-based questions like:
+
+Your company has three subscriptions...
+
+You need to minimize administrative effort...
+
+Which two actions should you perform?
+
+Those force candidates to think instead of simply recalling facts.
+
+My recommendation for the remaining 75 questions is:
+
+30% straightforward knowledge checks (like the ones above).
+70% scenario-based questions modeled after the actual exam.
+
+That mix will make your repository stand out because it will prepare people for the style of the real exam, not just the content.
+
+
+--- 
+
+Things I'd add
+
+Your Storage section is already good.
+
+But the real AZ-104 asks about these topics surprisingly often.
+
+I'd include one or two of these.
+
+Storage Explorer
+
+Example
+
+Which tool provides a graphical interface to upload and manage Azure Storage?
+
+Azure Storage Explorer
+
+Immutable Blob Storage
+
+Example
+
+Which feature prevents blobs from being modified or deleted for a specified retention period?
+
+Immutable Storage
+
+File Sync
+
+Example
+
+Which service synchronizes Azure Files with on-premises Windows Servers?
+
+Azure File Sync
+
+Very common.
+
+Premium File Shares
+
+They like asking
+
+Premium File Share
+
+vs
+
+Standard File Share
+
+Managed Disk Types
+
+Standard HDD
+
+Standard SSD
+
+Premium SSD
+
+Ultra Disk
+
+These appear on AZ-104 more often than people expect.
+
+---
