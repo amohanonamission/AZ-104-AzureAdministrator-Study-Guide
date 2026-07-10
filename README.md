@@ -37,15 +37,15 @@ This repository documents the study strategy that worked for me and serves as a 
 
 [📖 Cheat Sheet  –>](../notes/CheatSheet.md)  Quick revision notes for all AZ-104 domains
 
-[📝 Practice Questions  –> 100 practice questions with answer keys](../practice/PracticeQuestions.md)
+[📝 Practice Questions  –>](../practice/PracticeQuestions.md)  100 practice questions with answer keys
 
-[✅ Exam Tips  –> Preparation advice and exam-day strategies](../docs/ExamTips.md)
+[✅ Exam Tips  –>](../docs/ExamTips.md)  Preparation advice and exam-day strategies
 
-[🧪 Hands-on Labs  –> Azure Portal exercises to reinforce concepts](../practice/PracticeQuestions.md)
+[🧪 Hands-on Labs  –>](../practice/PracticeQuestions.md)  Azure Portal exercises to reinforce concepts
 
-[💡 Resources  –> Videos, Microsoft Learn, practice exams, and useful links](../docs/Resources.md)
+[💡 Resources  –>](../docs/Resources.md)  Videos, Microsoft Learn, practice exams, and useful links
 
-[🧠 Final Revision  –> Final day checklist before taking the exam](../notes/ExamDayChecklist.md)
+[🧠 Final Revision  –>](../notes/ExamDayChecklist.md)  Final day checklist before taking the exam
 
 
 ---
