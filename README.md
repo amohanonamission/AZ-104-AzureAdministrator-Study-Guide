@@ -156,7 +156,7 @@ If you're completely new to Azure, or IT in general consider extending your prep
 
 ## Final Thought
 
-**REMEMBER:** Cloud isn't about memorizing services. It's about understanding architecture, finding the right solutions, securing resources, automating repetitive tasks, and continually learning as the platforms evolve.
+**REMEMBER:** Cloud isn't about memorizing services. It's about understanding architecture, making informed decisions, automating repetitive tasks, and continually learning as the platforms evolve.
 
 > **GOOD LUCK ON YOUR AZURE JOURNEY! ☁️**
 
@@ -165,7 +165,11 @@ If you're completely new to Azure, or IT in general consider extending your prep
 ---
 ---
 
-Topics Covered
+
+
+### Repository Contents
+
+
 Identity
 Microsoft Entra ID
 RBAC
@@ -217,31 +221,7 @@ Management Groups
 ARM Templates
 Important Note
 
-This repository reflects my personal study strategy.
 
-I do not recommend attempting AZ-104 in only a few days.
-
-The exam expects practical understanding of Azure administration, not memorization of service names.
-
-If you are new to Azure, spend several weeks working through Microsoft Learn modules and building resources in the Azure Portal before scheduling the exam.
-
-Final Thought
-
-Cloud administration isn't about knowing every Azure service—it's about understanding architecture, making informed decisions, automating repetitive tasks, and continuously learning as the platform evolves.
-
-Good luck on your Azure journey!
-
----
-
-
-### Repository Contents
-
-File	Description
-StudyGuide.md	Detailed study approach
-Resources.md	Videos, Microsoft Learn, practice exams
-PracticeQuestions.md	AI-generated practice questions
-ExamTips.md	Tips for the exam and preparation
-Skills Covered
 Azure Compute
 Virtual Machines
 VM Scale Sets
