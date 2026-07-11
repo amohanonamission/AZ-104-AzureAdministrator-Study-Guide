@@ -1,5 +1,7 @@
 # AZ - 104 Study Guide (Detailed Tips)
-> A practical roadmap for anyone starting their **Azure Admininstrator Associate** journey — curated from my experience passing the exam in ~40 days.
+A practical roadmap for anyone starting their **Azure Admininstrator Associate** journey — curated from my experience passing the exam in ~40 days.
+
+> 🚧 This repository is actively being expanded. More practice questions, labs, notes, and examples will be added shortly.
 
 ## Study Philosophy
 - Immerse yourself with curiosity and genuine interest.
