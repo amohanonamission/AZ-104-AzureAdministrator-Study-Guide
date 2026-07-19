@@ -380,9 +380,8 @@ C. LRS
 
 D. RA-GRS
 
-Q31
 
-Which redundancy option replicates data synchronously across multiple Availability Zones in the same region?
+(Q31.)- Which redundancy option replicates data synchronously across multiple Availability Zones in the same region?
 
 A. LRS
 
@@ -392,9 +391,8 @@ C. GRS
 
 D. RA-GRS
 
-Q32
 
-Which redundancy option provides asynchronous replication to a paired Azure region?
+(Q32.)- Which redundancy option provides asynchronous replication to a paired Azure region?
 
 A. LRS
 
@@ -404,9 +402,8 @@ C. GRS
 
 D. Premium SSD
 
-Q33
 
-Which redundancy option provides read access to the secondary replicated region?
+(Q33.)- Which redundancy option provides read access to the secondary replicated region?
 
 A. LRS
 
@@ -416,9 +413,8 @@ C. RA-GRS
 
 D. Locally Redundant Storage
 
-Q34
 
-Which storage access tier is intended for data accessed most frequently?
+(Q34.)- Which storage access tier is intended for data accessed most frequently?
 
 A. Archive
 
@@ -428,9 +424,8 @@ C. Hot
 
 D. Premium
 
-Q35
 
-Which storage tier has the lowest storage cost but the highest retrieval latency?
+(Q35.)- Which storage tier has the lowest storage cost but the highest retrieval latency?
 
 A. Hot
 
