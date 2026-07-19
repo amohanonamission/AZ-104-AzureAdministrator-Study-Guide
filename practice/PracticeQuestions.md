@@ -843,7 +843,8 @@ C. ASG
 
 D. Route Table
 
-(Q71). Which Azure service provides centralized, stateful network filtering for traffic between Azure virtual networks, on-premises networks, and the Internet?
+
+(Q71.)- Which Azure service provides centralized, stateful network filtering for traffic between Azure virtual networks, on-premises networks, and the Internet?
 
 A. NSG
 
@@ -853,9 +854,8 @@ C. Traffic Manager
 
 D. Azure DNS
 
-Q72
 
-Which Azure DNS zone type allows name resolution only within Azure virtual networks?
+(Q72.)- Which Azure DNS zone type allows name resolution only within Azure virtual networks?
 
 A. Public DNS Zone
 
@@ -865,9 +865,8 @@ C. Azure DNS Resolver
 
 D. Route Table
 
-Q73
 
-A company wants virtual machines in one subnet to communicate with Azure SQL Database without traversing the public internet while keeping the SQL service on its public endpoint.
+(Q73.)- A company wants virtual machines in one subnet to communicate with Azure SQL Database without traversing the public internet while keeping the SQL service on its public endpoint.
 
 Which feature should be configured?
 
@@ -879,9 +878,8 @@ C. VPN Gateway
 
 D. ExpressRoute
 
-Q74
 
-You need to ensure that inbound HTTPS traffic is inspected by a Web Application Firewall before reaching your web application.
+(Q74.)- You need to ensure that inbound HTTPS traffic is inspected by a Web Application Firewall before reaching your web application.
 
 Which Azure service should you deploy?
 
@@ -893,9 +891,8 @@ C. Application Gateway with WAF
 
 D. Traffic Manager
 
-Q75
 
-A virtual machine in Azure requires outbound internet connectivity but should not have a public IP address.
+(Q75.)- A virtual machine in Azure requires outbound internet connectivity but should not have a public IP address.
 
 Which Azure service is the best solution?
 
@@ -911,9 +908,7 @@ D. VPN Gateway
 ### Section 4 - Compute, Monitoring & Recovery (76–100)
 
 ```
-Q76
-
-Which Azure compute service automatically increases or decreases the number of virtual machines based on demand?
+(Q76.)- Which Azure compute service automatically increases or decreases the number of virtual machines based on demand?
 
 A. Availability Set
 
@@ -923,9 +918,8 @@ C. Availability Zone
 
 D. Azure Backup
 
-Q77
 
-What is the primary purpose of an Availability Set?
+(Q77.)- What is the primary purpose of an Availability Set?
 
 A. Backup VMs
 
@@ -935,9 +929,8 @@ C. Increase storage performance
 
 D. Encrypt virtual machines
 
-Q78
 
-Availability Zones protect Azure resources against:
+(Q78.)- Availability Zones protect Azure resources against:
 
 A. User errors
 
@@ -947,9 +940,8 @@ C. Subscription deletion
 
 D. Malware attacks
 
-Q79
 
-Which Azure disk type provides the highest performance for production workloads?
+(Q79.)- Which Azure disk type provides the highest performance for production workloads?
 
 A. Standard HDD
 
@@ -959,9 +951,8 @@ C. Premium SSD
 
 D. Blob Storage
 
-Q80
 
-Which Azure feature allows you to automatically install software or configure a virtual machine after deployment?
+(Q80.)- Which Azure feature allows you to automatically install software or configure a virtual machine after deployment?
 
 A. Azure Policy
 
