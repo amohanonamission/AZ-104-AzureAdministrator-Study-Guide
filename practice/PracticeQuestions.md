@@ -347,9 +347,8 @@ C. Azure Queue Storage
 
 D. Azure Table Storage
 
-Q28
 
-Which Azure storage service is designed to store large amounts of semi-structured NoSQL data?
+(Q28.)- Which Azure storage service is designed to store large amounts of semi-structured NoSQL data?
 
 A. Blob Storage
 
@@ -359,9 +358,8 @@ C. Azure Queue Storage
 
 D. Azure Table Storage
 
-Q29
 
-Which Azure storage service is primarily used to decouple application components by storing messages?
+(Q29.)- Which Azure storage service is primarily used to decouple application components by storing messages?
 
 A. Blob Storage
 
@@ -371,9 +369,8 @@ C. Azure Files
 
 D. Table Storage
 
-Q30
 
-Which storage redundancy option stores three copies of data within a single Azure datacenter?
+(Q30.)- Which storage redundancy option stores three copies of data within a single Azure datacenter?
 
 A. ZRS
 
