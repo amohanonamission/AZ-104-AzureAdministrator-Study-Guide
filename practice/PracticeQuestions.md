@@ -618,9 +618,7 @@ D. Lifecycle Management
 ### Section 3 - Networking (51–75)
 
 ```
-Q51
-
-You need to allow HTTP traffic from the internet to a virtual machine while blocking all other inbound traffic.
+(Q51.)- You need to allow HTTP traffic from the internet to a virtual machine while blocking all other inbound traffic.
 
 Which Azure resource should you configure?
 
@@ -632,9 +630,8 @@ C. Route Table
 
 D. Traffic Manager
 
-Q52
 
-At which scope can a Network Security Group (NSG) be associated?
+(Q52.)- At which scope can a Network Security Group (NSG) be associated?
 
 A. Resource Group only
 
@@ -644,9 +641,8 @@ C. Subnet and Network Interface
 
 D. Subscription only
 
-Q53
 
-What is the primary purpose of an Application Security Group (ASG)?
+(Q53.)- What is the primary purpose of an Application Security Group (ASG)?
 
 A. Encrypt network traffic
 
@@ -656,9 +652,8 @@ C. Connect virtual networks
 
 D. Provide internet access
 
-Q54
 
-You need to route all outbound internet traffic from a subnet through a network virtual appliance (NVA).
+(Q54.)- You need to route all outbound internet traffic from a subnet through a network virtual appliance (NVA).
 
 Which Azure feature should you configure?
 
@@ -670,9 +665,8 @@ C. Application Gateway
 
 D. Azure DNS
 
-Q55
 
-What is the primary purpose of a User-Defined Route (UDR)?
+(Q55.)- What is the primary purpose of a User-Defined Route (UDR)?
 
 A. Filter traffic
 
@@ -682,7 +676,8 @@ C. Resolve DNS names
 
 D. Encrypt traffic
 
-(Q56). Which Azure feature allows Azure resources in a VNet to securely access an Azure PaaS service over the Azure backbone while the service continues to use its public endpoint?
+
+(Q56.)- Which Azure feature allows Azure resources in a VNet to securely access an Azure PaaS service over the Azure backbone while the service continues to use its public endpoint?
 
 A. Private Endpoint
 
@@ -692,9 +687,8 @@ C. VPN Gateway
 
 D. Azure Bastion
 
-Q57
 
-Which Azure feature assigns a private IP address from your VNet to an Azure PaaS resource?
+(Q57.)- Which Azure feature assigns a private IP address from your VNet to an Azure PaaS resource?
 
 A. Service Endpoint
 
@@ -704,9 +698,8 @@ C. Azure Firewall
 
 D. NAT Gateway
 
-Q58
 
-What is one advantage of a Private Endpoint over a Service Endpoint?
+(Q58.)- What is one advantage of a Private Endpoint over a Service Endpoint?
 
 A. Lower storage costs
 
@@ -716,9 +709,8 @@ C. Automatic backups
 
 D. Public internet access
 
-Q59
 
-You need to connect two Azure virtual networks with low latency over Microsoft's backbone network.
+(Q59.)- You need to connect two Azure virtual networks with low latency over Microsoft's backbone network.
 
 Which feature should you use?
 
@@ -730,9 +722,8 @@ C. ExpressRoute
 
 D. Azure Firewall
 
-Q60
 
-VNet Peering allows communication between:
+(Q60.)- VNet Peering allows communication between:
 
 A. Two VNets
 
