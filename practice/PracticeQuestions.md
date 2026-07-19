@@ -1074,9 +1074,8 @@ C. Assign RBAC permissions
 
 D. Create Resource Groups
 
-Q91
 
-Which Azure service provides personalized recommendations to improve performance, reliability, security, and cost?
+(Q91.)- Which Azure service provides personalized recommendations to improve performance, reliability, security, and cost?
 
 A. Service Health
 
@@ -1086,9 +1085,8 @@ C. Azure Policy
 
 D. Azure Backup
 
-Q92
 
-Which Azure service informs you about outages affecting Azure services in your region?
+(Q92.)- Which Azure service informs you about outages affecting Azure services in your region?
 
 A. Azure Monitor
 
@@ -1098,9 +1096,8 @@ C. Service Health
 
 D. Log Analytics
 
-Q93
 
-Which Azure service helps monitor the health and performance of applications?
+(Q93.)- Which Azure service helps monitor the health and performance of applications?
 
 A. Azure Backup
 
@@ -1110,9 +1107,8 @@ C. Azure Firewall
 
 D. Recovery Services Vault
 
-Q94
 
-A virtual machine unexpectedly becomes unavailable because the physical host fails.
+(Q94.)- A virtual machine unexpectedly becomes unavailable because the physical host fails.
 
 Which Azure feature minimizes downtime in this scenario?
 
