@@ -733,9 +733,8 @@ C. Two Regions only
 
 D. Two Resource Groups
 
-Q61
 
-Which Azure service provides encrypted connectivity between an on-premises network and Azure over the public internet?
+(Q61.)- Which Azure service provides encrypted connectivity between an on-premises network and Azure over the public internet?
 
 A. ExpressRoute
 
@@ -745,9 +744,8 @@ C. Azure Bastion
 
 D. NAT Gateway
 
-Q62
 
-Which Azure networking service provides a dedicated private connection from an on-premises datacenter to Azure?
+(Q62.)- Which Azure networking service provides a dedicated private connection from an on-premises datacenter to Azure?
 
 A. VPN Gateway
 
@@ -757,9 +755,8 @@ C. VNet Peering
 
 D. Service Endpoint
 
-Q63
 
-Which Azure service allows secure RDP and SSH access to virtual machines without exposing public IP addresses?
+(Q63.)- Which Azure service allows secure RDP and SSH access to virtual machines without exposing public IP addresses?
 
 A. Azure Firewall
 
@@ -769,9 +766,8 @@ C. VPN Gateway
 
 D. Traffic Manager
 
-Q64
 
-Azure Bastion requires deployment into which dedicated subnet?
+(Q64.)- Azure Bastion requires deployment into which dedicated subnet?
 
 A. AzureSubnet
 
@@ -781,9 +777,8 @@ C. AzureBastionSubnet
 
 D. GatewaySubnet
 
-Q65
 
-Which Azure load balancing solution operates at Layer 4 (TCP/UDP)?
+(Q65.)- Which Azure load balancing solution operates at Layer 4 (TCP/UDP)?
 
 A. Azure Application Gateway
 
@@ -793,9 +788,8 @@ C. Azure Load Balancer
 
 D. Traffic Manager
 
-Q66
 
-Which Azure service provides Layer 7 load balancing and Web Application Firewall (WAF) support?
+(Q66.)- Which Azure service provides Layer 7 load balancing and Web Application Firewall (WAF) support?
 
 A. Azure Firewall
 
@@ -805,9 +799,8 @@ C. Azure Load Balancer
 
 D. NAT Gateway
 
-Q67
 
-Which Azure networking service routes users to the closest endpoint based primarily on DNS routing methods?
+(Q67.)- Which Azure networking service routes users to the closest endpoint based primarily on DNS routing methods?
 
 A. Azure Front Door
 
@@ -817,9 +810,8 @@ C. Azure Firewall
 
 D. VPN Gateway
 
-Q68
 
-Which Azure service provides global HTTP/HTTPS load balancing with application acceleration?
+(Q68.)- Which Azure service provides global HTTP/HTTPS load balancing with application acceleration?
 
 A. Azure Front Door
 
@@ -829,9 +821,8 @@ C. Azure Load Balancer
 
 D. Application Gateway
 
-Q69
 
-What is the primary purpose of an Azure NAT Gateway?
+(Q69.)- What is the primary purpose of an Azure NAT Gateway?
 
 A. Filter inbound traffic
 
@@ -841,9 +832,8 @@ C. Route traffic between VNets
 
 D. Host virtual machines
 
-Q70
 
-Which Azure networking component provides stateful network filtering across multiple virtual networks?
+(Q70.)- Which Azure networking component provides stateful network filtering across multiple virtual networks?
 
 A. Azure Firewall
 
