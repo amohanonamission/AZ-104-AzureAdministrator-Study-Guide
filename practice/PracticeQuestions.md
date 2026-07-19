@@ -1189,9 +1189,8 @@ C. Resource Lock
 
 D. Azure Policy
 
-Q95
 
-Which feature distributes virtual machines across separate physical datacenters within a region?
+(Q95.)- Which feature distributes virtual machines across separate physical datacenters within a region?
 
 A. Availability Zones
 
@@ -1201,9 +1200,8 @@ C. VM Extensions
 
 D. Resource Groups
 
-Q96
 
-Which Azure monitoring data type records numerical performance values over time?
+(Q96.)- Which Azure monitoring data type records numerical performance values over time?
 
 A. Logs
 
@@ -1213,9 +1211,8 @@ C. Alerts
 
 D. Events
 
-Q97
 
-Which Azure service should you use to restore a deleted Azure virtual machine?
+(Q97.)- Which Azure service should you use to restore a deleted Azure virtual machine?
 
 A. Azure Site Recovery
 
@@ -1225,9 +1222,8 @@ C. Azure Monitor
 
 D. Azure Advisor
 
-Q98
 
-You need to receive an email whenever CPU utilization exceeds 80% on a virtual machine.
+(Q98.)- You need to receive an email whenever CPU utilization exceeds 80% on a virtual machine.
 
 What should you configure?
 
@@ -1239,9 +1235,8 @@ C. Azure Policy
 
 D. Service Health
 
-Q99
 
-Which Azure service allows disaster recovery from an on-premises VMware environment to Azure?
+(Q99.)- Which Azure service allows disaster recovery from an on-premises VMware environment to Azure?
 
 A. Azure Backup
 
@@ -1251,9 +1246,8 @@ C. Azure Files
 
 D. Azure Monitor
 
-Q100
 
-A company wants both automated backups and the ability to fail over workloads to another Azure region.
+(Q100.)- A company wants both automated backups and the ability to fail over workloads to another Azure region.
 
 Which two Azure services should be implemented?
 
@@ -1340,6 +1334,7 @@ Right now these are around 6.5–7/10 difficulty.
 
 The real AZ-104 has many scenario-based questions like:
 
+
 Your company has three subscriptions...
 
 You need to minimize administrative effort...
@@ -1354,7 +1349,6 @@ My recommendation for the remaining 75 questions is:
 70% scenario-based questions modeled after the actual exam.
 
 That mix will make your repository stand out because it will prepare people for the style of the real exam, not just the content.
-
 
 --- 
 
