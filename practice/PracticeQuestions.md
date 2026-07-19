@@ -435,9 +435,8 @@ C. Archive
 
 D. Premium
 
-Q36
 
-A company wants blobs to automatically move to the Cool tier after 30 days and Archive after 180 days.
+(Q36.)- A company wants blobs to automatically move to the Cool tier after 30 days and Archive after 180 days.
 
 Which Azure feature should be used?
 
@@ -449,9 +448,8 @@ C. Azure Policy
 
 D. Azure Monitor
 
-Q37
 
-You need to provide temporary access to specific blobs without exposing the storage account key.
+(Q37.)- You need to provide temporary access to specific blobs without exposing the storage account key.
 
 What should you use?
 
@@ -463,9 +461,8 @@ C. Resource Lock
 
 D. Azure RBAC
 
-Q38
 
-What is the primary purpose of a Stored Access Policy?
+(Q38.)- What is the primary purpose of a Stored Access Policy?
 
 A. Encrypt storage accounts
 
@@ -476,9 +473,7 @@ C. Replicate data
 D. Configure storage redundancy
 
 
-Q39
-
-Which authentication method grants the highest level of access to a storage account?
+(Q39.)- Which authentication method grants the highest level of access to a storage account?
 
 A. SAS Token
 
@@ -488,9 +483,8 @@ C. Azure AD Group
 
 D. Lifecycle Policy
 
-Q40
 
-Which Azure service can allow transfer of files over the public internet using AzCopy?
+(Q40.)- Which Azure service can allow transfer of files over the public internet using AzCopy?
 
 A. Azure Backup
 
