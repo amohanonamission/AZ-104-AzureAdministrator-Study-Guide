@@ -494,9 +494,8 @@ C. Azure Storage
 
 D. Azure Site Recovery
 
-Q41
 
-You need to migrate several terabytes of data over the internet as quickly as possible.
+(Q41.)- You need to migrate several terabytes of data over the internet as quickly as possible.
 
 Which tool should you use?
 
@@ -508,9 +507,8 @@ C. Azure Data Box
 
 D. Azure Backup
 
-Q42
 
-Which Azure service is most appropriate for transferring petabytes of data when network bandwidth is limited?
+(Q42.)- Which Azure service is most appropriate for transferring petabytes of data when network bandwidth is limited?
 
 A. AzCopy
 
@@ -520,9 +518,8 @@ C. Azure Data Box
 
 D. Storage Explorer
 
-Q43
 
-Which storage account type supports Azure Blob, Azure Files, Queues, and Tables?
+(Q43.)- Which storage account type supports Azure Blob, Azure Files, Queues, and Tables?
 
 A. BlobStorage
 
@@ -532,9 +529,8 @@ C. StorageV2 (General-purpose v2)
 
 D. Premium BlockBlobStorage
 
-Q44
 
-Premium storage is primarily recommended for workloads requiring:
+(Q44.)- Premium storage is primarily recommended for workloads requiring:
 
 A. Lowest storage cost
 
@@ -544,9 +540,8 @@ C. Archive storage
 
 D. Long-term backup
 
-Q45
 
-A virtual machine uses managed disks.
+(Q45.)- A virtual machine uses managed disks.
 
 Who manages the storage account for those disks?
 
@@ -558,9 +553,8 @@ C. Microsoft Entra ID
 
 D. Azure Backup
 
-Q46
 
-Which Azure feature provides soft delete protection for Blob Storage?
+(Q46.)- Which Azure feature provides soft delete protection for Blob Storage?
 
 A. Lifecycle Management
 
@@ -570,9 +564,8 @@ C. Azure Backup
 
 D. Site Recovery
 
-Q47
 
-Which feature allows recovery of previous versions of a blob after it has been modified?
+(Q47.)- Which feature allows recovery of previous versions of a blob after it has been modified?
 
 A. Blob Versioning
 
@@ -582,9 +575,8 @@ C. Queue Storage
 
 D. ZRS
 
-Q48
 
-You need to ensure deleted blobs can be recovered for 30 days.
+(Q48.)- You need to ensure deleted blobs can be recovered for 30 days.
 
 Which feature should you enable?
 
@@ -596,9 +588,8 @@ C. Azure Backup
 
 D. Geo-replication
 
-Q49
 
-A company wants users to authenticate to Azure Storage using Microsoft Entra credentials instead of storage account keys whenever possible.
+(Q49.)- A company wants users to authenticate to Azure Storage using Microsoft Entra credentials instead of storage account keys whenever possible.
 
 Which authorization method should be recommended?
 
@@ -610,9 +601,8 @@ C. SAS Token only
 
 D. Connection String authentication
 
-Q50
 
-A company needs to prevent accidental deletion of a storage account while still allowing administrators to modify its configuration.
+(Q50.)- A company needs to prevent accidental deletion of a storage account while still allowing administrators to modify its configuration.
 
 Which feature should be used?
 
