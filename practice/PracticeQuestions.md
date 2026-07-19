@@ -252,9 +252,8 @@ C. Virtual Machines only
 
 D. Storage Accounts
 
-Q20
 
-Which Azure construct is primarily used for organizing related resources?
+(Q20.)- Which Azure construct is primarily used for organizing related resources?
 
 A. Subscription
 
@@ -264,9 +263,8 @@ C. Availability Zone
 
 D. Region
 
-Q21
 
-Azure Policy is primarily used to:
+(Q21.)- Azure Policy is primarily used to:
 
 A. Assign permissions
 
@@ -276,9 +274,8 @@ C. Replicate storage
 
 D. Monitor virtual machines
 
-Q22
 
-Which Azure feature prevents accidental deletion of resources?
+(Q22.)- Which Azure feature prevents accidental deletion of resources?
 
 A. Azure Policy
 
