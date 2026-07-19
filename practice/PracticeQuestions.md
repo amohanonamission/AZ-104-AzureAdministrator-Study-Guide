@@ -962,9 +962,8 @@ C. Azure Monitor
 
 D. Azure Backup
 
-Q81
 
-Which VM extension is commonly used to execute PowerShell or Bash scripts after deployment?
+(Q81.)- Which VM extension is commonly used to execute PowerShell or Bash scripts after deployment?
 
 A. Azure Monitor Agent
 
@@ -974,7 +973,8 @@ C. Dependency Agent
 
 D. DSC Extension
 
-(Q82). You need to create scheduled backups of Azure virtual machines so they can be restored after accidental deletion or corruption.
+
+(Q82.)- You need to create scheduled backups of Azure virtual machines so they can be restored after accidental deletion or corruption.
 
 Which service should you configure first?
 
@@ -986,9 +986,8 @@ C. Azure Monitor
 
 D. Log Analytics
 
-Q83
 
-Azure Backup stores recovery points inside a:
+(Q83.)- Azure Backup stores recovery points inside a:
 
 A. Recovery Services Vault
 
@@ -998,9 +997,8 @@ C. Resource Group
 
 D. Managed Disk
 
-Q84
 
-Azure Site Recovery is primarily used for:
+(Q84.)- Azure Site Recovery is primarily used for:
 
 A. Monitoring
 
@@ -1010,9 +1008,8 @@ C. Identity synchronization
 
 D. Cost optimization
 
-Q85
 
-Which Azure service continuously replicates virtual machines to another Azure region?
+(Q85.)- Which Azure service continuously replicates virtual machines to another Azure region?
 
 A. Azure Backup
 
@@ -1022,9 +1019,8 @@ C. Azure Monitor
 
 D. Azure Advisor
 
-Q86
 
-Which Azure service collects metrics and logs from Azure resources?
+(Q86.)- Which Azure service collects metrics and logs from Azure resources?
 
 A. Azure Advisor
 
@@ -1034,9 +1030,8 @@ C. Azure Policy
 
 D. Azure Backup
 
-Q87
 
-Where are Azure Monitor logs typically stored for querying?
+(Q87.)- Where are Azure Monitor logs typically stored for querying?
 
 A. Blob Storage
 
@@ -1046,9 +1041,8 @@ C. Azure SQL Database
 
 D. Recovery Services Vault
 
-Q88
 
-Which Kusto Query Language (KQL)-enabled service allows you to analyze Azure logs?
+(Q88.)- Which Kusto Query Language (KQL)-enabled service allows you to analyze Azure logs?
 
 A. Azure Monitor
 
@@ -1058,9 +1052,8 @@ C. Service Health
 
 D. Advisor
 
-Q89
 
-Which Azure feature sends notifications when specific conditions are met?
+(Q89.)- Which Azure feature sends notifications when specific conditions are met?
 
 A. Azure Advisor
 
@@ -1070,9 +1063,8 @@ C. Tags
 
 D. Azure Firewall
 
-Q90
 
-What is an Action Group used for?
+(Q90.)- What is an Action Group used for?
 
 A. Group virtual machines
 
