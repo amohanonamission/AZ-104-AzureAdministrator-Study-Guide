@@ -38,7 +38,7 @@ Read slowly. Treat each one like an exam moment. Do deep research on any questio
 ### Section 1 - Identity & Governance (1–25)
 
 ```
-(Q1.) You need to grant a user permission to manage virtual machines in a resource group without allowing access to other resource groups.
+(Q1.)- You need to grant a user permission to manage virtual machines in a resource group without allowing access to other resource groups.
 
 What should you assign?
 
@@ -51,7 +51,7 @@ C. Azure RBAC role at the resource group scope
 D. Management Group role
 
 
-(Q2.) Which Azure RBAC role provides full management access to resources while allowing the user to assign roles to others?
+(Q2.)- Which Azure RBAC role provides full management access to resources while allowing the user to assign roles to others?
 
 A. Contributor
 
@@ -62,7 +62,7 @@ C. Owner
 D. User Access Administrator
 
 
-(Q3.) Which Azure RBAC role allows a user to manage access to Azure resources without allowing them to modify the resources themselves?
+(Q3.)- Which Azure RBAC role allows a user to manage access to Azure resources without allowing them to modify the resources themselves?
 
 A. Owner
 
@@ -73,7 +73,7 @@ C. User Access Administrator
 D. Contributor
 
 
-(Q4.) A user needs permission to view all resources in a subscription but must not make any changes.
+(Q4.)- A user needs permission to view all resources in a subscription but must not make any changes.
 
 Which role should you assign?
 
@@ -85,9 +85,8 @@ C. Owner
 
 D. Virtual Machine Contributor
 
-Q5
 
-RBAC permissions assigned at a subscription are inherited by:
+(Q5.)- RBAC permissions assigned at a subscription are inherited by:
 
 A. Only resource groups
 
@@ -97,9 +96,8 @@ C. Resource groups and resources
 
 D. Management groups only
 
-Q6
 
-Which identity type is automatically managed by Azure and can authenticate to Azure services without storing credentials?
+(Q6.)- Which identity type is automatically managed by Azure and can authenticate to Azure services without storing credentials?
 
 A. Service Principal
 
@@ -109,9 +107,8 @@ C. Guest User
 
 D. Shared Access Signature
 
-Q7
 
-What are the two types of Managed Identities?
+(Q7.)- What are the two types of Managed Identities?
 
 A. Public and Private
 
@@ -121,9 +118,8 @@ C. System-assigned and User-assigned
 
 D. Single and Multiple
 
-Q8
 
-A system-assigned managed identity is deleted when:
+(Q8.)- A system-assigned managed identity is deleted when:
 
 A. The subscription is deleted
 
@@ -133,9 +129,8 @@ C. Microsoft Entra ID is disabled
 
 D. The resource group is locked
 
-Q9
 
-Which Azure service stores user identities and authentication information?
+(Q9.)- Which Azure service stores user identities and authentication information?
 
 A. Azure Monitor
 
@@ -145,9 +140,8 @@ C. Microsoft Entra ID
 
 D. Azure Policy
 
-Q10
 
-Which Microsoft Entra feature enables users to sign in once and access multiple applications?
+(Q10.)- Which Microsoft Entra feature enables users to sign in once and access multiple applications?
 
 A. Multi-Factor Authentication
 
@@ -157,9 +151,8 @@ C. Single Sign-On
 
 D. Privileged Identity Management
 
-Q11
 
-Which feature evaluates conditions such as location, device compliance, and risk before granting access?
+(Q11.)- Which feature evaluates conditions such as location, device compliance, and risk before granting access?
 
 A. Azure Policy
 
@@ -169,9 +162,8 @@ C. Resource Locks
 
 D. Azure Monitor
 
-Q12
 
-Which authentication method provides an additional verification step beyond a password?
+(Q12.)- Which authentication method provides an additional verification step beyond a password?
 
 A. RBAC
 
@@ -181,9 +173,8 @@ C. Managed Identity
 
 D. SSO
 
-Q13
 
-Which Microsoft Entra feature allows administrators to receive eligible permissions only when needed?
+(Q13.)- Which Microsoft Entra feature allows administrators to receive eligible permissions only when needed?
 
 A. Azure Monitor
 
@@ -194,7 +185,7 @@ C. Azure Advisor
 D. Azure Policy
 
 
-(Q14) .What is the primary purpose of Administrative Units?
+(Q14.)- What is the primary purpose of Administrative Units?
 
 A. Organize Azure subscriptions
 
@@ -205,7 +196,7 @@ C. Create resource groups
 D. Manage storage accounts
 
 
-(Q15). Which Microsoft Entra group type supports assigning Azure RBAC roles?
+(Q15.)- Which Microsoft Entra group type supports assigning Azure RBAC roles?
 
 A. Distribution Group only
 
@@ -216,9 +207,7 @@ C. Security Group
 D. Mail-enabled Contact
 
 
-Q16
-
-A user account synchronized from on-premises Active Directory has an incorrect surname.
+(Q16.)- A user account synchronized from on-premises Active Directory has an incorrect surname.
 
 Where should you modify the attribute?
 
@@ -230,9 +219,8 @@ C. On-premises Active Directory
 
 D. Azure CLI
 
-Q17
 
-Which synchronization tool is commonly used to synchronize identities between Active Directory and Microsoft Entra ID?
+(Q17.)- Which synchronization tool is commonly used to synchronize identities between Active Directory and Microsoft Entra ID?
 
 A. Azure Backup
 
@@ -242,9 +230,8 @@ C. Microsoft Entra Connect Sync
 
 D. Azure Site Recovery
 
-Q18
 
-What is the highest level in the Azure resource hierarchy?
+(Q18.)- What is the highest level in the Azure resource hierarchy?
 
 A. Subscription
 
@@ -254,9 +241,8 @@ C. Management Group
 
 D. Resource
 
-Q19
 
-A Management Group can contain:
+(Q19.)- A Management Group can contain:
 
 A. Resource Groups only
 
