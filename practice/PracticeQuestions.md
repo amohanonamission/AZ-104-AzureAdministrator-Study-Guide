@@ -285,9 +285,8 @@ C. Tags
 
 D. Azure Advisor
 
-Q23
 
-Which Resource Lock prevents authorized users from deleting a resource while still allowing modifications?
+(Q23.)- Which Resource Lock prevents authorized users from deleting a resource while still allowing modifications?
 
 A. ReadOnly
 
@@ -297,9 +296,8 @@ C. Contributor
 
 D. Owner
 
-Q24
 
-Tags are primarily used for:
+(Q24.)- Tags are primarily used for:
 
 A. Authentication
 
@@ -310,7 +308,7 @@ C. Backup
 D. Networking
 
 
-(Q25). A company wants to ensure that storage accounts can only be created in specific Azure regions. (only East US and West Europe)
+(Q25.)- A company wants to ensure that storage accounts can only be created in specific Azure regions. (only East US and West Europe)
 
 Which Azure feature should be used?
 
@@ -326,9 +324,7 @@ D. Azure Backup
 ### Section 2 - Storage (26–50)
 
 ```
-Q26
-
-You need to store millions of images and videos that will be accessed over HTTPS.
+(Q26.)- You need to store millions of images and videos that will be accessed over HTTPS.
 
 Which Azure storage service should you use?
 
@@ -340,9 +336,8 @@ C. Azure Blob Storage
 
 D. Azure Table Storage
 
-Q27
 
-Which Azure storage service provides SMB file shares that can be mounted by Windows and Linux virtual machines?
+(Q27.)- Which Azure storage service provides SMB file shares that can be mounted by Windows and Linux virtual machines?
 
 A. Azure Blob Storage
 
