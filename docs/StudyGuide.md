@@ -132,6 +132,11 @@ During the final few days, I focused on:
 
 ---
 
+
+
+
+```
+
 1. My Study Strategy
 
 2. Weekly Study Plan
@@ -155,6 +160,8 @@ During the final few days, I focused on:
 11. Common Mistakes
 
 12. After Passing
+
+```
 
 How I Used AI
 
