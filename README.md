@@ -41,7 +41,7 @@ This repository documents the study strategy that worked for me and serves as a 
 
 [✅ Exam Tips  –>](./docs/ExamTips.md)  Preparation advice and exam-day strategies
 
-[🧪 Hands-on Labs  –>](./practice/PracticeQuestions.md)  Azure Portal exercises to reinforce concepts
+[🧪 Hands-on Labs  –>](./practice/HomeLabs.md)  Azure Portal exercises to reinforce concepts
 
 [💡 Resources  –>](./docs/Resources.md)  Videos, Microsoft Learn, practice exams, and useful links
 
