@@ -15,6 +15,7 @@ I passed the **AZ-104** exam with approximately **5-6 weeks of self-study**, and
 
 This repository documents the study strategy that worked for me and serves as a reference for anyone preparing for the certification.
 
+> 🚧 This repository is actively being expanded. More practice questions, labs, notes, and examples will be added shortly.
 ---
 
 ## Exam Results
