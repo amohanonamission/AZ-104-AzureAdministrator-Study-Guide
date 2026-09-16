@@ -1,4 +1,3 @@
-
 # Home Labs (AZ-104)
 
 These are the hands-on labs I recommend completing while studying for AZ-104.
